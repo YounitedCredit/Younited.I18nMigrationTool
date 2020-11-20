@@ -1,0 +1,3769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr-FR" target-language="es-ES" datatype="plaintext" original="ng2.template">
+    <body>
+      <!-- location: app.component -->
+      <trans-unit id="logoHeaderUrl" datatype="html">
+        <source>https://younited-credit.com</source>
+        <target>https://es.younited-credit.com</target>
+        <context-group purpose="location"></context-group>
+      </trans-unit>
+      <trans-unit id="whyChooseUsUrl" datatype="html">
+        <source>#</source>
+        <target>https://es.younited-credit.com/preguntas-frecuentes/pedir-un-prestamo/ventajas-de-tu-prestamo-con-younited-credit/por-que-elegir-younited-credit</target>
+        <context-group purpose="location"></context-group>
+      </trans-unit>
+      <trans-unit id="howRateLowUrl" datatype="html">
+        <source>#</source>
+        <target>https://es.younited-credit.com/preguntas-frecuentes/pedir-un-prestamo/ventajas-de-tu-prestamo-con-younited-credit/como-es-posible-que-younited-credit-me-ofrezca-unas-tasas-tae-tan-bajas</target>
+        <context-group purpose="location"></context-group>
+      </trans-unit>
+      <trans-unit id="faqUrl" datatype="html">
+        <source>#</source>
+        <target>https://es.younited-credit.com/preguntas-frecuentes/pedir-un-prestamo</target>
+        <context-group purpose="location"></context-group>
+      </trans-unit>
+      <trans-unit id="securedForm" datatype="html">
+        <source>Formulaire sécurisé</source>
+        <target>Formulario seguro</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="informationSecurity_header" datatype="html">
+        <source>Sécurité des informations</source>
+        <target>Seguridad</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="informationSecurity_body_1" datatype="html">
+        <source>Les informations personnelles que vous partagez avec Younited Credit dans le cadre de votre demande de crédit :
+        </source>
+        <target>La información personal que comparte con el crédito Younited como parte de su solicitud crédito:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="informationSecurity_body_2" datatype="html">
+        <source>Sont cantonnées dans une base de données sécurisée</source>
+        <target>Están confinados en una base de datos segura</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="informationSecurity_body_3" datatype="html">
+        <source>Sont cryptées grâce à la technologie SSL</source>
+        <target>Ellos son encriptados usando la tecnología SSL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="pageFooter_1" datatype="html">
+        <source> Younited SA - P. Iva 13722821009 -
+          <x id="START_TAG_SPAN" ctype="x-span" />
+Dati societari
+
+          <x id="CLOSE_TAG_SPAN" ctype="x-span" />
+        </source>
+        <target>
+          Younited SA -
+          <x id="START_TAG_SPAN" ctype="x-span" />
+Datos de la empresa
+
+          <x id="CLOSE_TAG_SPAN" ctype="x-span" />
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="pageFooter_2" datatype="html">
+        <source>
+          <x id="START_PARAGRAPH" ctype="x-p" />
+Tienes la obligación de reembolsar tu préstamo. Por favor, verifica que podrás hacer frente a estos pagos.<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+        </source>
+        <target>
+          <x id="START_PARAGRAPH" ctype="x-p" />
+ YOUNITED S.A., sucursal en Espa&#xF1;a de YOUNITED S.A., con nombre comercial YOUNITED CREDIT y YOUNITED, con sede legal y direcci&#xF3;n general en Espa&#xF1;a en C/Caravel&#xB7;la la Ni&#xF1;a, 12, 08017 Barcelona. N&#xFA;mero de Identificaci&#xF3;n Fiscal: W2500913E, asociada a ASNEF n&#xB0;A810, registrada en el Registro Mercantil de Barcelona con Tomo 45784, Folio 71, Hoja B-498886, Inscripci&#xF3;n 1&#xAA; y con autorizaci&#xF3;n del Banco de Espa&#xF1;a n&#xFA;mero 1560
+          <x id="CLOSE_PARAGRAPH" ctype="x-p" />
+
+          <x id="START_PARAGRAPH" ctype="x-p" />
+ Es obligatorio responder a todas las preguntas que aparecen en este formulario para que la relaci&#xF3;n contractual con Younited tenga lugar. Younited se constituye como responsable del tratamiento de los datos personales recabados bajo tu consentimiento. Bajo tu consentimiento, algunos de estos datos ser&#xE1;n utilizados con fines comerciales. Ejerce tus derechos de acceso, rectificaci&#xF3;n, cancelaci&#xF3;n, portabilidad, oposici&#xF3;n y limitaci&#xF3;n al tratamiento contactando con el Servicio de Atenci&#xF3;n al Cliente haciendo click <x id="START_LINK" ctype="x-a" />
+aqu&#xED;<x id="CLOSE_LINK" ctype="x-a" />
+. Younited se reserva la decisi&#xF3;n de borrar o no determinados datos si concurren obligaciones legales o regulatorias o alg&#xFA;n otro inter&#xE9;s declarado como leg&#xED;timo.
+      <x id="CLOSE_PARAGRAPH" ctype="x-p" />
+
+      <x id="START_PARAGRAPH" ctype="x-p" />
+ Younited no se hace responsable de la veracidad de los datos personales que el cliente le proporcione.
+      <x id="CLOSE_PARAGRAPH" ctype="x-p" />
+
+      <x id="START_PARAGRAPH" ctype="x-p" />
+ Para m&#xE1;s informaci&#xF3;n con respecto a la utilizaci&#xF3;n de tus datos personales, haz click <x id="START_LINK_1" ctype="x-a" />
+aqu&#xED;<x id="CLOSE_LINK" ctype="x-a" />
+.
+  <x id="CLOSE_PARAGRAPH" ctype="x-p" />
+
+  <x id="START_PARAGRAPH" ctype="x-p" />
+ Para cualquier otro tipo de consulta o comunicaci&#xF3;n que nos quieras hacer llegar, dir&#xED;gete a nosotros <x id="START_LINK" ctype="x-a" />
+aqu&#xED;<x id="CLOSE_LINK" ctype="x-a" />
+.
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Los importes de los ejemplos representativos que encontrar&#xE1;s en las comunicaciones y en la web han sido calculados considerando que la financiaci&#xF3;n se lleva a cabo de d&#xED;a 1 de un mes y que el primer vencimiento es el d&#xED;a 1 del mes siguiente. Diferencias en estas fechas pueden generar peque&#xF1;as variaciones en los importes, as&#xED; como el TIN podr&#xE1; sufrir modificaciones en funci&#xF3;n de la duraci&#xF3;n del cr&#xE9;dito solicitado.
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\app.component.ts</context>
+<context context-type="linenumber">55</context>
+</context-group>
+</trans-unit>
+<trans-unit id="externalLinksContact" datatype="html">
+<source>#</source>
+<target>https://es.younited-credit.com/contactar-con-younited-credit</target>
+</trans-unit>
+<trans-unit id="externalLinksOurProjects" datatype="html">
+<source>#</source>
+<target></target>
+</trans-unit>
+<trans-unit id="externalLinksLegalMention" datatype="html">
+<source>#</source>
+<target>https://es.younited-credit.com/informacion-legal</target>
+</trans-unit>
+<trans-unit id="externalLinksInvestors" datatype="html">
+<source>#</source>
+<target></target>
+</trans-unit>
+<trans-unit id="externalLinksFaq" datatype="html">
+<source>#</source>
+<target>https://es.younited-credit.com/preguntas-frecuentes</target>
+</trans-unit>
+<trans-unit id="modalcompany_header" datatype="html">
+<source> DATI SOCIETARI
+</source>
+<target>INFORMACIÓN DE LA COMPAÑÍA</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\app.component.ts</context>
+<context context-type="linenumber">69</context>
+</context-group>
+</trans-unit>
+<trans-unit id="modalcompany_body" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p" />
+ YOUNITED SA sede legale e Direzione Generale italiana: in via Sardegna 40, 00187 Roma C.F. - P.IVA 13722821009
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Albo delle Banche, n. 8054, Codice ABI 3638.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Soggetta all’attività di direzione e coordinamento di Prêt d’Union SA, con capitale sociale pari a 1.333.756 Euro
+            i.v., con sede legale in Parigi, 2 bis rue Louis Armand, CS 71602, 75724, Paris Cedex 15.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Associata ASSOFIN - Associazione Italiana del Credito al Consumo ed Immobiliare.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+ scritta al Registro degli Intermediari Assicurativi dell’UE in data 03/02/2016 – n. di registrazione Stato d’origine
+            11061269 – La società è soggetta alla vigilanza de l’Autorité de Contrôl Prudential (ACPR) – Sito internet registro
+            Stato d’origine www.orias.fr
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Indirizzo PEC : pretdunion@legalmail.it
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p" />
+ YOUNITED S.A., sucursal en España de YOUNITED S.A., con nombre comercial YOUNITED CREDIT y YOUNITED, con sede
+          legal y dirección general en España en Carrer de la Caravel
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+ la la Niña, 12, 08017 Barcelona Tomo 45784, Folio 71, Hoja B-498886, Inscripción 1ª y autorizada por el Banco
+          de España con número 1560, y en el Registro de Intermediarios de Seguro (ORIAS) con número 11061268 (www.orias.fr).
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\app.component.ts</context>
+<context context-type="linenumber">72</context>
+</context-group>
+</trans-unit>
+<trans-unit id="close" datatype="html">
+<source>Fermer</source>
+<target>Cerrar</target>
+</trans-unit>
+<!-- location: dyn-selectbox.component -->
+<trans-unit id="choose" datatype="html">
+<source>Choisissez...</source>
+<target>Seleccionar...</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\dynamic-components\dyn-selectbox\dyn-selectbox.component.ts</context>
+<context context-type="linenumber">6</context>
+</context-group>
+</trans-unit>
+<!-- location: commercial-offers.component -->
+<trans-unit id="monthlyFee" datatype="html">
+<source>Mensualités</source>
+<target>CUOTA MENSUAL</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">5</context>
+</context-group>
+</trans-unit>
+<trans-unit id="creditDuration" datatype="html">
+<source>Durée</source>
+<target>DURACIÓN</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">7</context>
+</context-group>
+</trans-unit>
+<trans-unit id="TAE" datatype="html">
+<source>TAEG</source>
+<target>T.A.E</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">9</context>
+</context-group>
+</trans-unit>
+<trans-unit id="specialOffer" datatype="html">
+<source>Offre spéciale</source>
+<target>Oferta especial</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">20</context>
+</context-group>
+</trans-unit>
+<trans-unit id="month" datatype="html">
+<source> Mois</source>
+<target> meses</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">21</context>
+</context-group>
+</trans-unit>
+<trans-unit id="from" datatype="html">
+<source>dès</source>
+<target>desde</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">22</context>
+</context-group>
+</trans-unit>
+<trans-unit id="continueWithoutEngagement" datatype="html">
+<source>Continuer (sans engagement)</source>
+<target>Solicita tu préstamo</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">27</context>
+</context-group>
+</trans-unit>
+<trans-unit id="freeWithoutEngagement" datatype="html">
+<source>(GRATUIT et sans engagement)</source>
+<target>(GRATIS y sin compromiso)</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">28</context>
+</context-group>
+</trans-unit>
+<trans-unit id="taeModal_header" datatype="html">
+<source> Qu&apos;est-ce que le TAEG ?
+</source>
+<target>¿QUÉ ES LA TAE?</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">38</context>
+</context-group>
+</trans-unit>
+<trans-unit id="taeModal_body" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p" />
+Le
+<x id="START_TAG_STRONG" ctype="x-strong" />
+TAEG
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ (Taux Annuel Effectif Global) intègre la totalité des coûts du crédit : on ajoute, au montant des intérêts proprement
+        dits (taux débiteur annuel fixe), les frais de toute nature liés à l’accord du prêt.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Le TAEG vous permet de comparer différentes offres de crédit (attention à bien comparer des offres de même montant
+        et de même durée !). Sa méthode de calcul est en effet appliquée de façon identique par tous les établissements bancaires
+        en France.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Les frais de service Younited Credit sont bien sûr inclus dans le TAEG. En comparant notre TAEG avec celui de nos
+        concurrents, vous constaterez que nous avons les meilleurs taux du marché.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p" />
+La
+<x id="START_TAG_STRONG" ctype="x-strong" />
+TAE
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+(Tasa Anual Equivalente) refleja el coste total del préstamo: se incluyen el total de los intereses (calculado
+          según el tipo de interés nominal fijo) y todos los gastos obligatorios vinculados al contrato de préstamo.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+La TAE debe ser utilizada para comparar la tasa de Younited Credit con las de los competidores: permite comparar
+          diferentes ofertas (sobre plazos e importes equivalentes). Su método de cálculo es el mismo para todas las entidades
+          financieras de España.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Las comisiones de Younited Credit se incluyen en la TAE.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\commercial-offers\commercial-offers.component.ts</context>
+<context context-type="linenumber">41</context>
+</context-group>
+</trans-unit>
+<trans-unit id="mobileMonthlyInstallmentAmount" datatype="html">
+<source>
+<x id="INTERPOLATION" />
+€/mois
+</source>
+<target>
+<x id="INTERPOLATION" />
+€/mes
+</target>
+</trans-unit>
+<trans-unit id="mobileMonthlyInstallmentAmountSelected" datatype="html">
+<source>Mensualités de</source>
+<target>Cuota de</target>
+</trans-unit>
+<trans-unit id="mobileAnnualPercentageRate" datatype="html">
+<source>(TAEG fixe</source>
+<target>(T.A E fija*</target>
+</trans-unit>
+<trans-unit id="mobilePerMaturity" datatype="html">
+<source>sur</source>
+<target>durante</target>
+</trans-unit>
+<trans-unit id="tae_tooltip_title" datatype="html">
+<source>Qu'est-ce que le TAEG ?</source>
+<target>Qué es la TAE?</target>
+</trans-unit>
+<trans-unit id="tae_tooltip_description1" datatype="html">
+<source>
+          Le <x id="START_TAG_STRONG" ctype="x-strong"/>
+TAEG<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ (Taux Annuel Effectif Global) intègre la totalité des coûts du crédit : on ajoute,
+          au montant des intérêts proprement dits (taux débiteur annuel fixe), les frais de toute nature liés à
+          l'accord du prêt.
+</source>
+<target>
+          La <x id="START_TAG_STRONG" ctype="x-strong"/>
+TAE<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ (Tasa Anual Efectiva) integra la totalidad de los costes del crédito: añadimos,
+          al monto de los intereses, los gatos de cualquier tipo relacionados con el acuerdo de crédito.
+</target>
+</trans-unit>
+<trans-unit id="tae_tooltip_description2" datatype="html">
+<source>
+          Le TAEG vous permet de comparer différentes offres de crédit (attention à bien comparer des offres de même
+          montant et de même durée !). Sa méthode de calcul est en effet appliquée de façon identique par tous
+          les établissements bancaires en France.
+</source>
+<target>
+          La TAE te permite comparar diferentes propuestas de crédito (compara propuestas del mismo montante y duración).
+          El método de cálculo es el mismo para todos los establecimientos de crédito.
+</target>
+</trans-unit>
+<trans-unit id="tae_tooltip_description3" datatype="html">
+<source>
+          Les frais de service Younited Credit sont bien sûr inclus dans le TAEG. En comparant notre TAEG avec celui
+          de nos concurrents, vous constaterez que nous avons les meilleurs taux du marché.
+</source>
+<target>
+          Los gastos de servicio de Younited Credit están incluidos en la TAE.
+          Cuando compares nuestro TAE al de la competencia te darás cuenta de que te tenemos las mejores tasas del mercado.
+</target>
+</trans-unit>
+<!-- location: card-acpr.component -->
+<trans-unit id="logoAgrement" datatype="html">
+<source>/assets/img/brand/logo_agrement-fr.svg</source>
+<target>/assets/img/brand/logo_agrement-es.svg</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\card-acpr\card-acpr.component.ts</context>
+<context context-type="linenumber">6</context>
+</context-group>
+</trans-unit>
+<trans-unit id="acprAgreement" datatype="html">
+<source> Younited Credit est la plateforme internet leader du crédit aux particuliers, agréée en tant qu’Etablissement de
+        Crédit par l’Autorité de Contrôle Prudentiel et de Résolution (ACPR) (n° d&apos;agrément: 16488)
+</source>
+<target>Younited Credit es la primera plataforma online de préstamo autorizada por la Autoridad de Control Prudencial y de
+          Resolución Francés (ACPR) y está registrada en el Banco de España.</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\shared\components\card-acpr\card-acpr.component.ts</context>
+<context context-type="linenumber">11</context>
+</context-group>
+</trans-unit>
+<!-- location: initial-proposal-step.component -->
+<trans-unit id="withoutBanks" datatype="html">
+<source>
+<x id="START_TAG_SPAN" ctype="x-span" />
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Sans les banques,
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ vos mensualités les plus basses
+
+<x id="CLOSE_TAG_SPAN" ctype="x-span" />
+</source>
+<target>
+<x id="START_TAG_SPAN" ctype="x-span" />
+Un
+
+<x id="START_TAG_STRONG" ctype="x-strong" />
+ préstamo más barato. sin bancos
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+<x id="CLOSE_TAG_SPAN" ctype="x-span" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">7</context>
+</context-group>
+</trans-unit>
+<trans-unit id="cheaperProject" datatype="html">
+<source>Mon projet moins cher</source>
+<target>Tu proyecto</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">14</context>
+</context-group>
+</trans-unit>
+<trans-unit id="type" datatype="html">
+<source>Type </source>
+<target>Tipo&nbsp;&nbsp;&nbsp;</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">25</context>
+</context-group>
+</trans-unit>
+<trans-unit id="plusYounited_header" datatype="html">
+<source>Les
+<x id="START_TAG_SPAN" ctype="x-span" />
++
+
+<x id="CLOSE_TAG_SPAN" ctype="x-span" />
+ Younited Credit
+
+</source>
+<target>Las ventajas de Younited Credit:</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">50</context>
+</context-group>
+</trans-unit>
+<trans-unit id="plusYounited_1" datatype="html">
+<source>&gt; des
+<x id="START_TAG_STRONG" ctype="x-strong" />
+prix justes
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ : les taux proposés couvrent les coûts d'études des crédits et rémunèrent les investisseurs à hauteur du risque
+        pris
+
+</source>
+<target>&gt;
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Precio justo
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ : la tasa de interés integra los costes del análisis del préstamo y la remuneración a los inversores particulares
+          por el riesgo asumido
+
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">53</context>
+</context-group>
+</trans-unit>
+<trans-unit id="plusYounited_2" datatype="html">
+<source>&gt;
+<x id="START_TAG_STRONG" ctype="x-strong" />
+crédit rapide
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ : la réponse définitive vous est donnée en moins de 24h
+
+<x id="START_SUPERSCRIPT" ctype="x-sup" />
+*
+
+<x id="CLOSE_SUPERSCRIPT" ctype="x-sup" />
+</source>
+<target>&gt;
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Préstamo rápido
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ : respuesta definitiva en menos de 48h
+
+<x id="START_SUPERSCRIPT" ctype="x-sup" />
+*
+
+<x id="CLOSE_SUPERSCRIPT" ctype="x-sup" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">55</context>
+</context-group>
+</trans-unit>
+<trans-unit id="plusYounited_3" datatype="html">
+<source>&gt; de
+<x id="START_TAG_STRONG" ctype="x-strong" />
+la transparence
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ : un crédit à taux fixe et à échéance de remboursement fixe
+
+</source>
+<target>&gt;
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Transparencia
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ : un préstamo con intereses fijos y un plazo de devolución fijo
+
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">58</context>
+</context-group>
+</trans-unit>
+<trans-unit id="offerDetails" datatype="html">
+<source>Détails de l'offre pour
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION" />
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ sur
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_1" />
+ mois<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ =
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_2" />
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+/mois
+</source>
+<target>Detalles de la oferta de
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION" />
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ en
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_1" />
+ meses<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ =
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_2" />
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+/mes
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">71</context>
+</context-group>
+</trans-unit>
+<trans-unit id="creditCost" datatype="html">
+<source> Coût total du crédit
+</source>
+<target>Coste total del préstamo</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">81</context>
+</context-group>
+</trans-unit>
+<trans-unit id="reversedInterest" datatype="html">
+<source>Dont intérêts reversés</source>
+<target>Intereses abonados</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">107</context>
+</context-group>
+</trans-unit>
+<trans-unit id="byYounited" datatype="html">
+<source>par Younited Credit aux investisseurs particuliers</source>
+<target>por Younited Credit a los inversores particulares</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">108</context>
+</context-group>
+</trans-unit>
+<trans-unit id="younitedFees" datatype="html">
+<source>Dont frais de service Younited Credit</source>
+<target>Gastos de gestión de Younited Credit</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">126</context>
+</context-group>
+</trans-unit>
+<trans-unit id="totalAmountDue" datatype="html">
+<source> Montant total dû
+</source>
+<target>Importe total adeudado</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">140</context>
+</context-group>
+</trans-unit>
+<trans-unit id="monthlyInsuranceAmount" datatype="html">
+<source> Coût mensuel d'assurance
+</source>
+<target>Costo mensual del seguro</target>
+</trans-unit>
+<trans-unit id="perMonth" datatype="html">
+<source> / mois</source>
+<target> / mes</target>
+</trans-unit>
+<trans-unit id="insuranceConditionNotice" datatype="html">
+<source>insuranceConditionNotice</source>
+<target></target>
+</trans-unit>
+<trans-unit id="offerEngagement" datatype="html">
+<source> Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
+</source>
+<target>Tienes la obligación de reembolsar tu préstamo. Por favor, verifica que podrás hacer frente a estos pagos.</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">161</context>
+</context-group>
+</trans-unit>
+<trans-unit id="offreWarning" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p" />
+Faites attention avant de choisir une offre
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p" />
+Elige la opción más adecuada para ti.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">184</context>
+</context-group>
+</trans-unit>
+<trans-unit id="offreAdvantages" datatype="html">
+<source>
+<x id="START_LINK" ctype="x-a" />
+&gt;| Consultez ici
+
+<x id="CLOSE_LINK" ctype="x-a" />
+ tous les avantages de l’offre Younited Credit.
+
+</source>
+<target>
+<x id="START_LINK" ctype="x-a" />
+&gt;| Descubre
+
+<x id="CLOSE_LINK" ctype="x-a" />
+ todas las ventajas de la oferta de Younited Credit
+
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">190</context>
+</context-group>
+</trans-unit>
+<trans-unit id="whoAreWeLinkUrl" datatype="html">
+<source>/qui-sommes-nous</source>
+<target>https://es.younited-credit.com/quienes-somos</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">191</context>
+</context-group>
+</trans-unit>
+<trans-unit id="creditPropositionLegal" datatype="html">
+<source>La proposition de crédit en ligne de Younited Credit présentée ci-dessus est réservée aux particuliers majeurs résidant
+        en France métropolitaine. Les conditions de cette offre de prêt personnel sont soumises à la réserve de l’étude et
+        de l’acceptation de votre dossier et de l’éventuelle modification de notre tarification. Conditions en vigueur au
+        27/05/2016. Vous disposez d’un droit de rétractation.
+</source>
+<target>La oferta de préstamo online Younited Credit está reservada a los particulares mayores de edad residentes en España.
+          Las condiciones de esta oferta de préstamo personal se ajustarán una vez completados todos los datos requeridos
+          en el formulario online, y se condicionarán al estudio y a la aceptación definitiva de tu expediente. Condiciones
+          vigentes a
+<x id="INTERPOLATION" />
+. Debes saber que dispones de un derecho de desistimiento.
+
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">215</context>
+</context-group>
+</trans-unit>
+<trans-unit id="notice_1" datatype="html">
+<source>
+<x id="START_SUPERSCRIPT" ctype="x-sup" />
+*
+
+<x id="CLOSE_SUPERSCRIPT" ctype="x-sup" />
+ A réception de votre dossier complet, Younited Credit peut vous faire une réponse dans les 24h ouvrées par SMS dans
+        le cas d’une acceptation, et par email dans le cas d’un refus.
+
+</source>
+<target/>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">220</context>
+</context-group>
+</trans-unit>
+<trans-unit id="modalCreditFee_header" datatype="html">
+<source> QU'EST-CE QUE LE "FRAIS DE SERVICE YOUNITED CREDIT" ?
+</source>
+<target>¿QUÉ SON LOS COSTES DEL PRÉSTAMO YOUNITED CREDIT?</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">235</context>
+</context-group>
+</trans-unit>
+<trans-unit id="modalCreditFee_body" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Faire une demande de crédit sur Younited Credit est GRATUIT.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Lors de la mise à disposition des fonds, Younited Credit vous versera le montant du crédit, après déduction de nos
+        frais de fonctionnement (appelés "frais de service Younited Credit"). Ces frais sont notre seule et unique rémunération
+        sur le crédit octroyé, et il sont perçus uniquement en cas d’accord de financement.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Exemple au 09/01/2019 : si vous demandez 5 000€, et les frais de service Younited Credit sont de 100€, alors
+          4900€ seront versés sur votre compte bancaire.
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Ce frais est bien sûr inclus dans le TAEG, qui légalement intègre la totalité des coûts du crédit. Le TAEG vous permet
+        de comparer différentes offres de crédit (attention à bien comparer des offres de crédit de même montant et de même
+        durée !).
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p" />
+ Solicitar un préstamo sobre nuestro sitio web es gratuito.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Si el préstamo te es otorgado, entonces Younited Credit abonará a tu cuenta bancaria el importe del préstamo menos
+          los gastos de gestión. Los gastos de gestión corresponden a la única comisión de Younited Credit.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Ejemplo: solicitaste un préstamo para gastos médicos de 5.000€ a 36 meses, los gastos de gestión son de 262,50€. Por lo tanto, el importe que se abonará en tu cuenta bancaria será de 4.737,50€.
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+<x id="START_PARAGRAPH" ctype="x-p" />
+Los gastos de gestión están incluidos en la T.A.E. y en el coste total del préstamo: con estos dos elementos (T.A.E.
+          y coste total del préstamo) podrás comparar la oferta de Younited Credit con las de otras entidades de crédito
+          (¡cuidado, tienes que comparar sobre plazos e importes equivalentes!).
+
+<x id="CLOSE_PARAGRAPH" ctype="x-p" />
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\initial-proposal-step\initial-proposal-step.component.ts</context>
+<context context-type="linenumber">238</context>
+</context-group>
+</trans-unit>
+<trans-unit id="mobileBorrowedAmount_part2" datatype="html">
+<source>MOINS CHER</source>
+<target>MÁS BARATO</target>
+</trans-unit>
+<trans-unit id="mobileTaegQuestion" datatype="html">
+<source>*Qu'est-ce que le TAEG ?</source>
+<target>(1)¿Qué es la (TAE)?</target>
+</trans-unit>
+<trans-unit id="mobileSeeMore" datatype="html">
+<source>lire la suite</source>
+<target>leer ></target>
+</trans-unit>
+<trans-unit id="mobileTaegInfo" datatype="html">
+<source>Le TAEG (Taux Annuel Effectif Global) intègre la totalité des coûts du crédit : on ajoute, au montant des intérêts
+        proprement dits (taux débiteur annuel fixe), les frais de toute nature liés à l’accord du prêt. Le TAEG vous permet
+        de comparer différentes offres de crédit (attention à bien comparer des offres de même montant et de même durée !).
+        Sa méthode de calcul est en effet appliquée de façon identique par tous les établissements bancaires en France. Les
+        frais de service Younited Credit sont bien sûr inclus dans le TAEG. En comparant notre TAEG avec celui de nos concurrents,
+        vous constaterez que nous avons les meilleurs taux du marché.</source>
+<target>La TAE (Tasa Anual Equivalente) refleja el coste total del préstamo: se incluyen el total de los intereses (calculado
+          según el tipo de interés nominal fijo) y todos los gastos obligatorios vinculados al contrato de préstamo. La TAE
+          debe ser utilizada para comparar la tasa de Younited Credit con las de los competidores: permite comparar diferentes
+          ofertas (sobre plazos e importes equivalentes). Su método de cálculo es el mismo para todas las entidades financieras
+          de España. Las comisiones de Younited Credit se incluyen en la TAE.</target>
+</trans-unit>
+<trans-unit id="mobileFeesOrInterestQuestion" datatype="html">
+<source>**Que sont les frais de service de Younited Credit ?</source>
+<target>(2) ¿QUÉ SON LOS COSTES DEL PRÉSTAMO YOUNITED CREDIT?</target>
+</trans-unit>
+<trans-unit id="mobileFeesOrInterestInfo" datatype="html">
+<source>Faire une demande de crédit sur Younited Credit est GRATUIT. Lors de la mise à disposition des fonds, Younited Credit
+        vous versera le montant du crédit, après déduction de notre frais de fonctionnement (appelé "frais de Younited Credit").
+        Ce frais est notre seule et unique rémunération sur le crédit octroyé, et il est perçu uniquement en cas d’accord
+        de financement. Exemple au 09/01/2019 :  si vous demandez 5 000€, et les frais de service Younited Credit sont de 100€, alors 4900€ seront versés sur votre compte bancaire. Ce frais est bien sûr inclus dans le
+        TAEG, qui légalement intègre la totalité des coûts du crédit. Le TAEG vous permet de comparer différentes offres
+        de crédit (attention à bien comparer des offres de crédit de même montant et de même durée !).</source>
+<target>Solicitar un préstamo sobre nuestro sitio web es gratuito. Si el préstamo te es otorgado, entonces Younited Credit
+          abonará a tu cuenta bancaria el importe del préstamo menos los gastos de gestión. Los gastos de gestión corresponden
+          a la única comisión de Younited Credit. Ejemplo: solicitaste un préstamo para gastos médicos de 5.000€ a 36 meses,
+          los gastos de gestión son de 262,50€. Por lo tanto, el importe que se abonará en tu cuenta bancaria será de 4.737,50€.
+          Los gastos de gestión están incluidos en la T.A.E. y en el coste total del préstamo: con estos dos elementos (T.A.E.
+          y coste total del préstamo) podrás comparar la oferta de Younited Credit con las de otras entidades de crédito
+          (¡cuidado, tienes que comparar sobre plazos e importes equivalentes!).</target>
+</trans-unit>
+<trans-unit id="mobileYucInfo" datatype="html">
+<source>Younited Credit est la plateforme internet leader du crédit aux particuliers, agréée en tant qu’Etablissement de
+        Crédit par l’Autorité de Contrôle Prudentiel et de Résolution (ACPR) (n° d'agrément: 16488)</source>
+<target>Younited Credit es la primera plataforma online de préstamo autorizada por la Autoridad de Control Prudencial y de
+          Resolución Francés (ACPR) y está registrada en el Banco de España.</target>
+</trans-unit>
+
+<!-- location: email-step.component -->
+<trans-unit id="customerReviewsNumberAndScore" datatype="html">
+<source>
+<x id="INTERPOLATION" />
+ avis
+<x id="INTERPOLATION_1" />
+ / 10
+
+</source>
+<target>
+<x id="INTERPOLATION" />
+ testimonios
+<x id="INTERPOLATION_1" />
+ / 10
+
+</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\email\email-step.component.ts</context>
+<context context-type="linenumber">107</context>
+</context-group>
+</trans-unit>
+<trans-unit id="customerReviewsTitle" datatype="html">
+<source>Les avis déposés par nos clients</source>
+<target>Opiniones de nuestros clientes</target>
+<context-group purpose="location">
+<context context-type="sourcefile">app\steps\email\email-step.component.html</context>
+<context context-type="linenumber">94</context>
+</context-group>
+</trans-unit>
+<trans-unit id="withoutBanksEmail" datatype="html">
+<source>EMPRUNTEZ SANS LES BANQUES,
+<x id="START_SMALL_TEXT" ctype="x-small" />
+à partir de 18,95€ par mois
+
+<x id="CLOSE_SMALL_TEXT" ctype="x-small" />
+</source>
+<target>Tu préstamo en pocos minutos,
+<x id="START_SMALL_TEXT" ctype="x-small" />
+a partir de 18,95€ al mes
+
+<x id="CLOSE_SMALL_TEXT" ctype="x-small" />
+</target>
+</trans-unit>
+<trans-unit id="validEmail" datatype="html">
+<source>Cette adresse email doit être valide car elle sera utilisée pour le suivi de votre dossier</source>
+<target></target>
+</trans-unit>
+<trans-unit id="fillEmailField" datatype="html">
+<source>Entrez votre email dans le champ pour commencer</source>
+<target>Indica tu correo electrónico para empezar el proceso</target>
+</trans-unit>
+<trans-unit id="whyFillEmail" datatype="html">
+<source>Votre email nous permet de créer un compte pour que vous puissiez suivre l'évolution de votre demande de crtédit,
+        les échéances de remboursement...</source>
+<target>Tu correo electrónico nos permitirá contactar contigo sobre tu préstamo (estado de tu solicitud, vencimientos…).</target>
+</trans-unit>
+<trans-unit id="commercialPolicy" datatype="html">
+<source>J'ai lu et accepté le</source>
+<target>He leído y acepto la</target>
+</trans-unit>
+<trans-unit id="commercialPolicyLink" datatype="html">
+<source>Politique Commerciale</source>
+<target>Política Comercial</target>
+</trans-unit>
+<trans-unit id="seeMyCommercialOffer" datatype="html">
+<source>Voir mon offre personnalisée</source>
+<target>Obtén tu préstamo</target>
+</trans-unit>
+<trans-unit id="customerCreditApplicationsTitle" datatype="html">
+<source>Les dernières demandes</source>
+<target>ÚLTIMOS PEDIDOS </target>
+</trans-unit>
+<trans-unit id="borrowerQuestions" datatype="html">
+<source>Questions Emprunteurs</source>
+<target>PREGUNTAS FRECUENTES</target>
+</trans-unit>
+<trans-unit id="mobileNumberOfYucCreditApplications" datatype="html">
+<source>Déjà 1 291 479 demandes de crédit préacceptées pour un montant de 10 496 651 000€, sur Younited Credit !</source>
+<target>Ya se han aprobado 1 291 479 solicitudes de crédito por un importe de 10 496 651 000€, en Younited Credit!</target>
+</trans-unit>
+<trans-unit id="borrowerQuestion1" datatype="html">
+<source>Pourquoi faut-il choisir le crédit Younited Credit ?</source>
+<target>¿Por qué elegir Younited Credit?</target>
+</trans-unit>
+<trans-unit id="borrowerQuestion2" datatype="html">
+<source>Comment fait Younited Credit pour me proposer des taux (TAEG) aussi bas</source>
+<target>¿Cómo es posible que Younited Credit me ofrezca unas tasas (T.A.E) tan bajas?</target>
+</trans-unit>
+<!-- location: card-warranty.component-->
+<trans-unit id="yucWarranty" datatype="html">
+<source>
+<x id="START_SMALL_TEXT" ctype="x-small" />
+La garantie Younited Credit
+
+<x id="CLOSE_SMALL_TEXT" ctype="x-small" />
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Tiers de confiance
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ entre
+<x id="START_TAG_STRONG_1" ctype="x-strong" />
+Emprunteurs &amp; Investisseurs
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</source>
+<target>
+<x id="START_SMALL_TEXT" ctype="x-small" />
+Garantía Younited Credit
+
+<x id="CLOSE_SMALL_TEXT" ctype="x-small" />
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Tercero de confianza
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ entre
+<x id="START_TAG_STRONG_1" ctype="x-strong" />
+entre prestatarios e inversores
+
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+<!-- location: housing-step.component-->
+<trans-unit id="housingStepTitle" datatype="html">
+<source>Votre logement</source>
+<target>Tu situación actual de vivienda</target>
+</trans-unit>
+<!-- location: financialsituation.component-->
+<trans-unit id="financialSituationHeader" datatype="html">
+<source>Votre situation financière</source>
+<target>Tus ingresos y gastos mensuales</target>
+</trans-unit>
+<!-- location: bank-step.component-->
+<trans-unit id="yourBank" datatype="html">
+<source>Votre banque</source>
+<target>Tu banco</target>
+</trans-unit>
+<!-- location: identity.component-->
+<trans-unit id="identityStepTitle" datatype="html">
+<source>Your personal informations</source>
+<target>Tu datos personales</target>
+</trans-unit>
+<!-- location: contact.component-->
+<trans-unit id="contactHeader" datatype="html">
+<source>Contact Information</source>
+<target>Tu informatión de contacto</target>
+</trans-unit>
+<trans-unit id="readAndAcceptLabel" datatype="html">
+<source>J'ai lu et j'accepte les</source>
+<target>He leído y acepto las</target>
+</trans-unit>
+<trans-unit id="ConditionsGeneralUrl" datatype="html">
+<source>/assets/documents/es/Condiciones-Generales.pdf</source>
+<target>/assets/documents/es/Condiciones-Generales.pdf</target>
+</trans-unit>
+<trans-unit id="conditionGeneraleLabel" datatype="html">
+<source>conditions générales</source>
+<target>Condiciones Generales</target>
+</trans-unit>
+<!-- location: step-navigator.component-->
+<trans-unit id="backwardBtnLbl" datatype="html">
+<source>Retour</source>
+<target>Atrás</target>
+</trans-unit>
+<trans-unit id="forwardBtnLbl" datatype="html">
+<source>Suite</source>
+<target>Continuar</target>
+</trans-unit>
+<trans-unit id="insuranceTitle" datatype="html">
+<source>Souscription à une assurance</source>
+<target>Protégete con un seguro</target>
+</trans-unit>
+<trans-unit id="insurance_tooltip_description" datatype="html">
+<source>
+          Chômage, décès, accident de la route... Protégez-vous des
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+accidents de la vie<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ et de
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+l'incapacité de paiement<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ qui s'ensuit en souscrivant à une
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+assurance facultative<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+.
+</source>
+<target>
+          Paro, fallecimiento, accidente en carretera... Protégete de los
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+accidentes de la vida<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ et de
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+la incapacidad de devolución<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ gracias a un
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+seguro opcional<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+.
+</target>
+</trans-unit>
+<trans-unit id="insuranceAdviceTitle" datatype="html">
+<source> Quel contrat d’assurance choisir ?
+</source>
+<target></target>
+</trans-unit>
+<trans-unit id="insuranceAdviceDescription" datatype="html">
+<source> Chômage, décès, accident de la route... Protégez-vous des « accidents de la vie » et de l'incapacité de paiement
+        qui s'ensuit en souscrivant une assurance facultative ! Suite aux informations que vous venez de nous communiquer,
+        Younited Credit vous conseille :
+</source>
+<target></target>
+</trans-unit>
+<trans-unit id="insuranceJunior" datatype="html">
+<source> Si vous avez moins de 65 ans, cette assurance vous protège en cas de décès, Perte Totale et Irréversible d’Autonomie
+        (PTIA) ou Interruption de Travail pour Accident ou Maladie (ITAM).
+</source>
+<target>
+          Si tienes menos de 66 años, este seguro te protege en caso de Fallecimiento, Gran Invalidez o Incapacidad Temporal.
+</target>
+</trans-unit>
+<trans-unit id="insuranceSenior" datatype="html">
+<source> A partir de 65 ans et si vous avez moins de 81 ans, cette assurance Décès Senior vous protège en cas de décès (uniquement),
+</source>
+<target>
+          A partir de los 66 años y hasta los 70, el seguro Senior cubre tus cuotas en caso de Fallecimiento por accidente.*
+</target>
+</trans-unit>
+<trans-unit id="jobLoss" datatype="html">
+<source>La Garantie Perte Emploi, qui vous assure contre le chômage (si vous avez moins de 60 ans).</source>
+<target>La cobertura de Desempleo te protege pagando tus cuotas del préstamo en caso de pérdida de empleo.</target>
+</trans-unit>
+<trans-unit id="insuranceGuide" datatype="html">
+<source>Pour comparer les offres d'assurance, éviter leurs pièges et consulter la réponse de Younited Credit,
+<x id="START_LINK" ctype="x-a" />
+cliquez ici.
+
+<x id="CLOSE_LINK" ctype="x-a" />
+</source>
+<target>Para poder comparar las ofertas de seguro,
+<x id="START_LINK" ctype="x-a" />
+consulta la Guía del Seguro Younited Credit
+
+<x id="CLOSE_LINK" ctype="x-a" />
+</target>
+</trans-unit>
+<trans-unit id="insuranceNotice" datatype="html">
+<source>
+            Pour en savoir plus sur l’offre d’assurance Younited Credit, consultez la
+<x id="START_LINK" ctype="x-a" />
+notice d’information<x id="CLOSE_LINK" ctype="x-a" />
+</source>
+<target>
+          Para más información sobre tu seguro con Younited Credit, consulta el
+<x id="START_LINK" ctype="x-a" />
+Boletín de información<x id="CLOSE_LINK" ctype="x-a" />
+</target>
+</trans-unit>
+<trans-unit id="insurancePolicy" datatype="html">
+<source>
+          sur l’<x id="START_LINK" ctype="x-a" />
+assurance facultative<x id="CLOSE_LINK" ctype="x-a" />
+.
+</source>
+<target>
+          y <x id="START_LINK" ctype="x-a" />
+la Poliza<x id="CLOSE_LINK" ctype="x-a" />
+ de seguro voluntario.
+</target>
+</trans-unit>
+<trans-unit id="closeInsuranceGuide" datatype="html">
+<source> Fermer
+</source>
+<target>
+          Cerrar
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceTitle" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Assurez-vous<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ et protégez vos proches
+</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Asegúrate<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ y protege a los tuyos
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceSubTitle" datatype="html">
+<source>
+          Protégez-vous et votre famille contre les circonstances imprévues.
+</source>
+<target>
+          Protégete tú y a tus allegados contra los imprevistos
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceNotice" datatype="html">
+<source> Etes-vous sûr de ne pas vous assurer ? L'assurance est exclusive à votre crédit. Aucune autre assurance ne vous
+        couvrira en cas de problème
+</source>
+<target>
+          De vedad no quieres asegurarte ? el seguro opcional de Younited sirve exclusivamente para cubrir tu préstamo. Si decides
+          no contratarlo, en caso de dificultades no estarás cubierto con ninguno de los otros seguros que puedas tener.
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceBasicInvalidity" datatype="html">
+<source> Vous avez un accident et devez faire face à une perte totale et irréversible d’autonomie
+</source>
+<target>
+          Reembolsa al 100% el saldo de tu préstamo si sufres un accidente y tienes que hacer frente a una invalidez permanente
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceBasicDeath" datatype="html">
+<source> Vous décédez pendant la période de remboursement
+</source>
+<target>
+          Reembolsa al 100% el saldo de tu préstamo si falleces durante el plazo de reembolso
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceJobLoss" datatype="html">
+<source> Vous perdez votre emploi pendant la période de remboursement
+</source>
+<target>
+          Gracias a la opción Desempleo, el seguro reembolsa tus cuotas mensuales mientras sigas desempleado.
+</target>
+</trans-unit>
+<!-- location: proposal.component -->
+<trans-unit id="offerDetails_proposal" datatype="html">
+<source>Détails de la proposition</source>
+<target>Détails de la proposition</target>
+</trans-unit>
+<trans-unit id="title_proposal" datatype="html">
+<source>Votre offre de crédit!</source>
+<target>¡TU OFERTA DE CONTRATO DE PRÉSTAMO EN SOLO 1 CLIC!</target>
+</trans-unit>
+<trans-unit id="description_proposal" datatype="html">
+<source>Avec les informations que vous avez fournies, nous pouvons vous proposer la proposition suivante, pour laquelle vous
+        avez déjà obtenu notre pré-acceptation!</source>
+<target>Con la información que nos has aportado podemos ofrecerte la siguiente propuesta, para la cual ya has conseguido
+          nuestra pre-aceptación!</target>
+</trans-unit>
+<trans-unit id="borrowedAmountLabel_proposal" datatype="html">
+<source>Votre projet de
+<x id="INTERPOLATION" />
+ moins cher
+</source>
+<target>TU PROYECTO DE
+<x id="INTERPOLATION" />
+ MÁS BARATO
+</target>
+</trans-unit>
+<trans-unit id="proposal_tooltip_title" datatype="html">
+<source>Qu'est-ce que les frais de services Younited Credit ?</source>
+<target>Cuales son las comisiones de servicio de Younited Credit?</target>
+</trans-unit>
+<trans-unit id="proposal_tooltip_description1" datatype="html">
+<source>Faire une demande de crédit sur Younited Credit est GRATUIT.</source>
+<target>Hacer una petición de crédito con Younited Credit es GRATUITO.</target>
+</trans-unit>
+<trans-unit id="proposal_tooltip_description2" datatype="html">
+<source>Lors de la mise à disposition des fonds, Younited Credit vous versera le montant du crédit, après déduction de
+          nos frais de fonctionnement (appelés "frais de service Younited Credit"). Ces frais sont notre seule et unique
+          rémunération sur le crédit octroyé, et il sont perçus uniquement en cas d’accord de financement.</source>
+<target>Cuando entregamos los fondos, Younited Credit tranferirá el montante del crédito tras deducción
+          de los gastos operacionales (llamados comisiones de servicio). Estos gastos son nuestra única
+          remuneración sobre el crédito aceptado y sólo son deducidos en el caso de la aceptación del crédito.</target>
+</trans-unit>
+<trans-unit id="proposal_tooltip_description3" datatype="html">
+<source>Exemple au 09/01/2019 : si vous demandez 5 000€, et les frais de service Younited Credit sont de 100€, alors
+          4900€ seront versés sur votre compte bancaire.</source>
+<target>Ejemplo: Si pides 5000€ para gastos médicos a 36 meses, los gastos de servicio de Younited Credit son de 262,50€.
+        Por lo tanto, 4.737,50€ serán transferidos a tu cuenta corriente.</target>
+</trans-unit>
+<trans-unit id="proposal_tooltip_description4" datatype="html">
+<source>Ce frais est bien sûr inclus dans le TAEG, qui légalement intègre la totalité des coûts du crédit. Le TAEG vous
+          permet de comparer différentes offres de crédit (attention à bien comparer des offres de crédit de même montant
+          et de même durée !).</source>
+<target>Estos gastos están por supuesto incluidos en la TAE, que agrupa la totalidad de los gastos del crédito. La TAE
+          te permite comparar las diferentes ofertas de crédito (asegúrate de comparar ofertas de crédito
+          del mismo montante y duración!).</target>
+</trans-unit>
+<trans-unit id="noinsurance_proposal" datatype="html">
+<source>no insurance</source>
+<target>Sin Seguro</target>
+</trans-unit>
+<trans-unit id="insurance_proposal_title" datatype="html">
+<source>Assurance de l'emprunteur sélectionnée:</source>
+<target>Seguro seleccionado:</target>
+</trans-unit>
+<!-- decisions -->
+<trans-unit id="decision_ok_title" datatype="html">
+<source>Félicitations</source>
+<target>¡Enhorabuena!</target>
+</trans-unit>
+<trans-unit id="decision_ok_sub_title1" datatype="html">
+<source>Votre demande a été</source>
+<target>¡Tu solicitud ha sido</target>
+</trans-unit>
+<trans-unit id="decision_ok_sub_title2" datatype="html">
+<source>pré-approuvée!</source>
+<target>preaceptada!</target>
+</trans-unit>
+<trans-unit id="decision_greetings" datatype="html">
+<source>Merci de faire confiance à Younited Credit pour réaliser votre projet!</source>
+<target>¡Gracias por confiar en Younited Credit para llevar a cabo tu proyecto!</target>
+</trans-unit>
+<trans-unit id="decision_send_infos" datatype="html">
+<source>Vous devez nous envoyer le contrat signé afin que nous puissions vous envoyer l'argent le plus rapidement possible.</source>
+<target>Debes enviarnos el contrato firmado para que te podamos enviar el dinero lo más rápido posible.</target>
+</trans-unit>
+<trans-unit id="decision_get_email" datatype="html">
+<source>Recevez par email</source>
+<target>Recibir por email</target>
+</trans-unit>
+<trans-unit id="decision_get_email_inprogress" datatype="html">
+<source>Envoi en cours</source>
+<target>En progreso</target>
+</trans-unit>
+<trans-unit id="decision_get_email_done" datatype="html">
+<source>Envoyé</source>
+<target>Terminado</target>
+</trans-unit>
+<trans-unit id="decision_get_mail" datatype="html">
+<source>Recevoir par la poste</source>
+<target>Recevoir par la poste</target>
+</trans-unit>
+<trans-unit id="decision_follow_steps" datatype="html">
+<source>Suivez étape par étape les instructions que vous recevrez par email</source>
+<target>Sigue paso a paso las instrucciones que recibirás por correo electrónico</target>
+</trans-unit>
+<trans-unit id="decision_fast" datatype="html">
+<source>Rapidité</source>
+<target>RAPIDEZ</target>
+</trans-unit>
+<trans-unit id="decision_fast_description" datatype="html">
+<source>Résolution finale de votre demande dans les 48 heures suivant la réception de votre dossier complet.</source>
+<target>Resolución definitiva de tu solicitud en un plazo de 48h desde la recepción de tu expediente completo.</target>
+</trans-unit>
+<trans-unit id="decision_pro" datatype="html">
+<source>PROFESSIONNEL</source>
+<target>PROFESIONALIDAD</target>
+</trans-unit>
+<trans-unit id="decision_pro_description" datatype="html">
+<source>Une équipe d'analystes de prêts à votre service!</source>
+<target>¡Un equipo de analistas de préstamo a tu servicio!</target>
+</trans-unit>
+<trans-unit id="decision_sign_online" datatype="html">
+<source>Signer en ligne</source>
+<target>Firmar online</target>
+</trans-unit>
+<trans-unit id="decision_sign_step1" datatype="html">
+<source>Signer le contrat avec votre numéro de portable</source>
+<target>Firme el contrato con su número de teléfono móvil</target>
+</trans-unit>
+<trans-unit id="decision_sign_step2" datatype="html">
+<source>Importez vos pieces justificatives en ligne ou en les photographiant</source>
+<target>Importe sus comprobantes en línea o fotografíelos</target>
+</trans-unit>
+<trans-unit id="decision_sign_argument1" datatype="html">
+<source>Simple</source>
+<target>Sencillo</target>
+</trans-unit>
+<trans-unit id="decision_sign_argument2" datatype="html">
+<source>Rapide</source>
+<target>Rápido</target>
+</trans-unit>
+<trans-unit id="decision_sign_argument3" datatype="html">
+<source>Segura</source>
+<target></target>
+</trans-unit>
+<trans-unit id="refused_info_1" datatype="html">
+<source>Après l'évaluation préliminaire de votre demande, nous ne pouvons malheureusement pas vous faire une offre.</source>
+<target>Tras la evaluación preliminar de tu solicitud, desgraciadamente no podemos hacerte una oferta.</target>
+</trans-unit>
+<trans-unit id="refused_info_2" datatype="html">
+<source>Nous sommes désolés, mais nous ne pouvons pas vous donner en détail les raisons du rejet.</source>
+<target>Lo sentimos, pero no podemos darte con detalle los motivos del rechazo.</target>
+</trans-unit>
+<trans-unit id="refused_info_3" datatype="html">
+<source>ou la situation financière a changé.</source>
+<target>o financiera ha cambiado.</target>
+</trans-unit>
+<trans-unit id="error_info_1" datatype="html">
+<source>Un problème technique est survenu. Nous travaillons pour le résoudre le plus rapidement possible.</source>
+<target>Un problema técnico se produjo. Estamos trabajando para resolverlo lo antes posible.</target>
+</trans-unit>
+<trans-unit id="error_info_2" datatype="html">
+<source>Veuillez réessayer.</source>
+<target>Por favor, intenta de nuevo.</target>
+</trans-unit>
+<!-- spinner -->
+<trans-unit id="spinnerLine1" datatype="html">
+<source>We process your request</source>
+<target>Por favor espera, estamos procesando tu solicitud.</target>
+</trans-unit>
+<trans-unit id="spinnerLine2" datatype="html">
+<source>Be patient, it could be take a few minutes</source>
+<target>Este proceso puede durar unos pocos minutos.</target>
+</trans-unit>
+<trans-unit id="commercial_policy_title" datatype="html">
+<source>Política Comercial.</source>
+<target>Política Comercial.</target>
+</trans-unit>
+
+<trans-unit id="optin_policy_title" datatype="html">
+<source>Política Comercial.</source>
+<target>Política de Younited.</target>
+</trans-unit>
+<trans-unit id="partner_optin_policy_title" datatype="html">
+<source>Política Comercial.</source>
+<target>Política Comercial.</target>
+</trans-unit>
+<trans-unit id="commercial_policy_paragraph_one" datatype="html">
+<source>El solicitante consiente y autoriza expresamente a Younited SA Sucursal en España a que sus datos sean empleados, para la gestión,
+          adecuación y comunicación de información, novedades y ofertas comerciales adecuadas a su perfil específico, que serán notificadas por
+          vía electrónica (<x id="START_TAG_STRONG" ctype="x-strong" />
+email, WhatsApp, …<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+) principalmente. Las comunicaciones podrán tratar sobre los sectores de los
+          sectores financiero, ocio, formación, gran consumo, editorial, automoción, energía, agua, electrodomésticos, informática, muebles,
+          cocina, textil deporte, reformas del hogar y en especial, seguros disponibles para su préstamo. También se realizarán encuestas de
+          satisfacción y con fines estadísticos.El solicitante siempre tendrá, de conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de
+          Protección de Datos Personales y garantía de los derechos digitales (<x id="START_TAG_STRONG" ctype="x-strong" />
+LOPDGDD<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+) y el Reglamento General de Protección
+          de Datos de la Unión Europea (<x id="START_TAG_STRONG" ctype="x-strong" />
+RGPD<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+), el derecho de información, acceso, portabilidad, rectificación, cancelación,
+          limitación al tratamiento y oposición, dirigiéndose a Younited SA, Carrer de la Caravel·la la Niña, 12, 08017 Barcelona o mediante
+          correo electrónico a la dirección&nbsp;
+<x id="START_LINK" ctype="x-a" />
+dpo@younited-credit.es<x id="CLOSE_LINK" ctype="x-a" />
+.</source>
+<target>El solicitante consiente y autoriza expresamente a Younited SA Sucursal en España a que sus datos sean empleados, para la gestión,
+          adecuación y comunicación de información, novedades y ofertas comerciales adecuadas a su perfil específico, que serán notificadas por
+          vía electrónica (<x id="START_TAG_STRONG" ctype="x-strong" />
+email, WhatsApp, …<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+) principalmente. Las comunicaciones podrán tratar sobre los sectores de los
+          sectores financiero, ocio, formación, gran consumo, editorial, automoción, energía, agua, electrodomésticos, informática, muebles,
+          cocina, textil deporte, reformas del hogar y en especial, seguros disponibles para su préstamo. También se realizarán encuestas de
+          satisfacción y con fines estadísticos.El solicitante siempre tendrá, de conformidad con la Ley Orgánica 3/2018, de 5 de diciembre, de
+          Protección de Datos Personales y garantía de los derechos digitales (<x id="START_TAG_STRONG" ctype="x-strong" />
+LOPDGDD<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+) y el Reglamento General de Protección
+          de Datos de la Unión Europea (<x id="START_TAG_STRONG" ctype="x-strong" />
+RGPD<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+), el derecho de información, acceso, portabilidad, rectificación, cancelación,
+          limitación al tratamiento y oposición, dirigiéndose a Younited SA, Carrer de la Caravel·la la Niña, 12, 08017 Barcelona o mediante
+          correo electrónico a la dirección&nbsp;
+<x id="START_LINK" ctype="x-a" />
+dpo@younited-credit.es<x id="CLOSE_LINK" ctype="x-a" />
+.
+</target>
+</trans-unit>
+<trans-unit id="mailtoCustomerService" datatype="html">
+<source>mailto:@younited-credit.fr</source>
+<target>mailto:dpo@younited-credit.es</target>
+</trans-unit>
+<trans-unit id="externalLinksOurPartners" datatype="html">
+<source>#</source>
+<target>https://es.younited-credit.com/entidades-colaboradoras</target>
+</trans-unit>
+<trans-unit id="commercial_policy_paragraph_four" datatype="html">
+<source>
+          El solicitante acepta expresamente la transmisión de los datos por el/ella proporcionados (de conformidad con la
+          LOPD, Reglamento LOPD, Reglamento RGPD y la Ley 34/2002 LSSI), por parte de Younited SA a entidades colaboradoras, al objeto de recibir
+          comunicaciones comerciales, por cualquier medio, relacionadas con los siguientes sectores
+          (haz clic sobre el sector de actividad para conocer las entidades colaboradoras correspondientes):
+<x id="START_LINK" ctype="x-a" />
+            Industria manufacturera;
+            Suministro de agua, energía eléctrica, gas, vapor y aire acondicionado; Construcción, comercio al por mayor y al
+            por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información
+            y comunicaciones, educación u otros servicios; Actividades de saneamiento, de organizaciones y organismos extraterritoriales,
+            sanitarias y de servicios sociales, artísticas, recreativas y de entretenimiento, financieras y de seguros, inmobiliarias,
+            profesionales, científicas y técnicas, administrativas y servicios auxiliares, de los hogares como empleadores
+            de personal doméstico o de los hogares como productores de bienes y servicios para uso propio.
+<x id="CLOSE_LINK" ctype="x-a" />
+</source>
+<target>
+          El solicitante acepta expresamente la transmisión de los datos por el/ella proporcionados (de conformidad con la
+          LOPD, Reglamento LOPD, Reglamento RGPD y la Ley 34/2002 LSSI), por parte de Younited SA a entidades colaboradoras, al objeto de
+          recibir comunicaciones comerciales, por cualquier medio, relacionadas con los siguientes sectores:
+          (haz clic sobre el sector de actividad para conocer las entidades colaboradoras correspondientes):
+<x id="START_LINK" ctype="x-a" />
+            Industria manufacturera;
+            Suministro de agua, energía eléctrica, gas, vapor y aire acondicionado; Construcción, comercio al por mayor y al
+            por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información
+            y comunicaciones, educación u otros servicios; Actividades de saneamiento, de organizaciones y organismos extraterritoriales,
+            sanitarias y de servicios sociales, artísticas, recreativas y de entretenimiento, financieras y de seguros, inmobiliarias,
+            profesionales, científicas y técnicas, administrativas y servicios auxiliares, de los hogares como empleadores
+            de personal doméstico o de los hogares como productores de bienes y servicios para uso propio.
+<x id="CLOSE_LINK" ctype="x-a" />
+</target>
+</trans-unit>
+<trans-unit id="commercial_policy_paragraph_three" datatype="html">
+<source>El solicitante acepta recibir comunicación telefónica acerca de las tarifas, ventajas y características de los seguros
+        disponibles para el préstamo desde el momento en el que se inicie la negociación con Younited.</source>
+<target>El solicitante acepta recibir comunicación telefónica acerca de las tarifas, ventajas y características de los seguros
+          disponibles para el préstamo desde el momento en el que se inicie la negociación con Younited.</target>
+</trans-unit>
+<trans-unit id="commercial_policy_optin1" datatype="html">
+<source>Acepto recibir información comercial por parte de Younited Credit</source>
+<target>Acepto recibir información comercial por parte de Younited Credit</target>
+</trans-unit>
+<trans-unit id="commercial_policy_optin2" datatype="html">
+<source>Acepto recibir información comercial por parte de los socios de Younited Credit</source>
+<target>Acepto recibir información comercial por parte de los socios de Younited Credit</target>
+</trans-unit>
+<!-- error page -->
+<trans-unit id="errorPageButton" datatype="html">
+<source>
+<x id="START_LINK" ctype="x-a" />
+Please try again.<x id="CLOSE_LINK" ctype="x-a" />
+</source>
+<target>
+<x id="START_LINK" ctype="x-a" />
+Por favor, intenta de nuevo.<x id="CLOSE_LINK" ctype="x-a" />
+</target>
+</trans-unit>
+<trans-unit id="externalLinksHomePage" datatype="html">
+<source>#</source>
+<target>https://es.younited-credit.com/</target>
+</trans-unit>
+<trans-unit id="errorPageText" datatype="html">
+<source>A technical problem occurred. We are working to resolve it as soon as possible.</source>
+<target>Un problema técnico se produjo. Estamos trabajando para resolverlo lo antes posible.</target>
+</trans-unit>
+
+<trans-unit id="preacc_se_answer_title" datatype="html">
+<source>Our answer in principle</source>
+<target>¡Felicidades!</target>
+</trans-unit>
+<trans-unit id="preacc_se_congrats" datatype="html">
+<source>Congratulations</source>
+<target>¡Felicidades!</target>
+</trans-unit>
+<trans-unit id="preacc_se_answer" datatype="html">
+<source>Your request of <x id="INTERPOLATION" equiv-text="{{borrowedAmountLabel$ | async}}"/>
+ is pre-accepted</source>
+<target>¡Tu préstamo de <x id="INTERPOLATION" equiv-text="{{borrowedAmountLabel$ | async}}"/>
+ está preaceptado!</target>
+</trans-unit>
+<trans-unit id="preacc_se_complete" datatype="html">
+<source>Complete your file now to get your funds in record time</source>
+<target>Consíguelo en 24h* firmando ahora.</target>
+</trans-unit>
+<trans-unit id="preacc_se_sign" datatype="html">
+<source>Sign your contract online and photograph your vouchers</source>
+<target>Firma el contrato y sube una foto de tus documentos.</target>
+</trans-unit>
+<trans-unit id="preacc_se_signonline" datatype="html">
+<source>Sign online</source>
+<target>Firmar ahora</target>
+</trans-unit>
+<trans-unit id="preacc_se_sign_with_phone" datatype="html">
+<source>Sign the contract with your mobile number</source>
+<target>Paso 1: Firma el contrato con tu móvil</target>
+</trans-unit>
+<trans-unit id="preacc_se_import" datatype="html">
+<source>Import your vouchers online</source>
+<target>Paso 2: Sube tus documentos online</target>
+</trans-unit>
+<trans-unit id="preacc_se_noprinter" datatype="html">
+<source>No need for printer or scanner</source>
+<target>No necesitas una impresora ni un escáner</target>
+</trans-unit>
+<trans-unit id="preacc_se_testimony_text" datatype="html">
+<source>I sent my attachments by phone: very handy when we have no scanner. Evailable funds in time and time.Nothing to say I recommend.</source>
+<target>Envié mis documentos por móvil, me fue genial porque no tenía escaner a mano. Me llegó el préstamo cuando me dijeron. Lo recomeindo.</target>
+</trans-unit>
+<trans-unit id="preacc_se_testimony_name" datatype="html">
+<source>Romane</source>
+<target>Adela</target>
+</trans-unit>
+<trans-unit id="preacc_se_email_notice" datatype="html">
+<source>You can resume your signature online at any time via the email sent to you or via your client area on your computer</source>
+<target>Puedes volver a la firma online en cualquier momento a tráves del correo electrónico que has recibido o a través de tu área de cliente online. </target>
+</trans-unit>
+<trans-unit id="preacc_se_asterisk" datatype="html">
+<source>* Final decision within 24h: Upon receipt of your complete file, Younited Credit can give you a response within 24 hours worked by SMS in the case of acceptance, and by email in the event of a refusal.</source>
+<target>*48h tras completar tu solicitud. Una solicitud se considera completa cuando nuestro equipo confirma que los documentos proporcionados son correctos y suficientes para tomar una decisión. La aprobación definitiva del préstamo está sujeta a la confirmación de que el cliente cumple con los criterios establecidos por YOUNITED CREDIT para la concesión de un préstamo.</target>
+</trans-unit>
+
+<!-- initial -->
+<trans-unit id="withoutBanks_title" datatype="html">
+<source>Sans les banques, <x id="START_TAG_STRONG" ctype="x-strong" />
+les mensualités les plus basses !<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</source>
+<target>Solicita sin compromiso <x id="START_TAG_STRONG" ctype="x-strong" />
+tu préstamo con Younited<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+<trans-unit id="advantage_title" datatype="html">
+<source>Les <x id="START_TAG_STRONG" ctype="x-strong" />
++ de Younited Credit<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</source>
+<target>Los <x id="START_TAG_STRONG" ctype="x-strong" />
++ de Younited Credit<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+<trans-unit id="advantage1" datatype="html">
+<source>Grâce à la <x id="START_TAG_STRONG" ctype="x-strong" />
+signature électronique<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+, vous pouvez compléter votre dossier de manière <x id="START_TAG_STRONG" ctype="x-strong" />
+100% dématérialisée<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</source>
+<target>Gracias a la <x id="START_TAG_STRONG" ctype="x-strong" />
+firma electrónica<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+, puedes completar tu petición de manera <x id="START_TAG_STRONG" ctype="x-strong" />
+100% digital<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+<trans-unit id="advantage2" datatype="html">
+<source>La réponse définitive vous est donnée en <x id="START_TAG_STRONG" ctype="x-strong" />
+moins de 24h*<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</source>
+<target>Respuesta definitiva en <x id="START_TAG_STRONG" ctype="x-strong" />
+menos de 48h*<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+<trans-unit id="advantage3" datatype="html">
+<source>Vous êtes <x id="START_TAG_STRONG" ctype="x-strong" />
+informé en temps réel<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ à chacune des étapes de l'étude de votre dossier</source>
+<target>Te <x id="START_TAG_STRONG" ctype="x-strong" />
+informamos en directo<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ de cada una de las etapas de financiación de tu crédito</target>
+</trans-unit>
+<trans-unit id="advantage4" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Pas de frais ni de clauses cachées,<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ pas de crédit renouvelable</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Ni gastos ni cláusulas ocultas,<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ sin créditos renovables.</target>
+</trans-unit>
+
+<!-- adapted -->
+<trans-unit id="borrowedAmountLabel_text" datatype="html">
+<source>L’analyse de votre situation nous permet de vous proposer les offres suivantes :</source>
+<target>El análisis de su situación nos permite proponerle las siguientes ofertas:</target>
+</trans-unit>
+
+<!-- step navigator -->
+<trans-unit id="step_navigator_response" datatype="html">
+<source>Response in principle immediately</source>
+<target>Respuesta parcial inmediata</target>
+</trans-unit>
+<trans-unit id="step_navigator_few_minutes" datatype="html">
+<source>in a few minutes</source>
+<target>en unos pocos minutos</target>
+</trans-unit>
+
+<trans-unit id="preacc_se_desktop_thanks" datatype="html">
+<source>Merci</source>
+<target>Gracias</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_amount_info" datatype="html">
+<source>d'avoir choisi Younited Crédit pour réaliser votre projet de</source>
+<target>por elegir Younited Credit para realizar tu proyecto de</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_answer" datatype="html">
+<source>Vous êtes pré-accepté(e)</source>
+<target>Has sido preaceptado</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_signonline" datatype="html">
+<source>Signer votre contrat en ligne</source>
+<target>Completa tu solicitud online</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_noprinter" datatype="html">
+<source>Simple et rapide : Pas besoin d'imprimante ni de scanner !</source>
+<target>Sencillo y rápido: Sin necesidad de impresora o escáner</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_import" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Importez<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ vos pièces justificatives depuis votre ordinateur ou <x id="START_TAG_STRONG" ctype="x-strong"/>
+en les photographiant <x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ avec votre smartphone</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Envía tu documentación<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ de forma automática<x id="START_TAG_STRONG" ctype="x-strong"/>
+<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_sign_with_phone" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Signez le contrat <x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+avec votre numéro de téléphone</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Firma el contrato <x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+indicando tu número de teléfono</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_continue_online" datatype="html">
+<source>Continuer en ligne</source>
+<target>Continuar online</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_fast_response" datatype="html">
+<source>Accord en moins de 24h</source>
+<target>Revisión en menos de 24h</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_online_response" datatype="html">
+<source>Signature 100% en ligne</source>
+<target>Firma 100% online</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_online_response_explain" datatype="html">
+<source>On vous explique la signature 100% en ligne.</source>
+<target>Te explicamos la firma 100% online</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_online_how" datatype="html">
+<source>Comment signer en ligne étapes par étapes</source>
+<target>Cómo firmar paso a paso</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_postal" datatype="html">
+<source>Envoyer votre contrat par voie postale ?</source>
+<target>Enviar tu contrato por correo ordinario?</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_download" datatype="html">
+<source>Télécharger le contrat</source>
+<target>Descargar el contrato</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_postal_receive" datatype="html">
+<source>Recevoir votre contrat par voie postale ?</source>
+<target>Recibir tu contrato por correo ordinario?</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_postal_cta" datatype="html">
+<source>Cliquez ici</source>
+<target>Click aquí</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_postal_delay" datatype="html">
+<source>( vous le recevrez sous 2 à 4 jours )</source>
+<target>(lo recibirás dentro de 2 a 4 días)</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_postal_info" datatype="html">
+<source>Quelque soit votre choix, vous pourrez nous <x id="START_TAG_STRONG" ctype="x-strong"/>
+renvoyer le contrat gratuitement <x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ sans affranchir l'enveloppe.</source>
+<target>Sea cual sea tu decisión, nos puedes reenviar el correo gratuitamente.</target>
+</trans-unit>
+<trans-unit id="preacc_se_desktop_save_address" datatype="html">
+<source>Pour bien recevoir les messages que nous vous adressons, enregistrez l'adresse younited@serviceclient.younited-credit.com dans votre carnet d'adresse</source>
+<target>Para asegurarte que recibes nuestros correos, guarda la dirección younited@serviceclient.younited-credit.com en la agenda de tu correo online</target>
+</trans-unit>
+<trans-unit id="preacc_desktop_send_contract" datatype="html">
+<source>Renvoyez-nous le contrat de crédit pour obtenir vos fonds rapidement</source>
+<target>Reenvíanos el contrato de crédito para recibir tu financiación rápidamente</target>
+</trans-unit>
+<trans-unit id="preacc_desktop_send_contract2" datatype="html">
+<source>( sous réserve de l'analyse de votre dossier complet ! )</source>
+<target>(bajo reserva de análisis de tu dosier completo)</target>
+</trans-unit>
+<trans-unit id="preacc_desktop_print" datatype="html">
+<source>Imprimer le contrat</source>
+<target>Imprimir el contrato</target>
+</trans-unit>
+<trans-unit id="reinsurance_info1" datatype="html">
+<source>Décision<x id="START_TAG_STRONG" ctype="x-strong"/>
+ 24h<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ après réception <x id="LINE_BREAK" ctype="lb"/>
+du dossier*</source>
+<target>Decisión<x id="START_TAG_STRONG" ctype="x-strong"/>
+ 48h<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ después de la recepción<x id="LINE_BREAK" ctype="lb"/>
+ del dosier*</target>
+</trans-unit>
+<trans-unit id="reinsurance_info2" datatype="html">
+<source>Une équipe d'<x id="START_TAG_STRONG" ctype="x-strong"/>
+ analystes crédit<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ à<x id="LINE_BREAK" ctype="lb"/>
+ votre service !</source>
+<target>Un equipo de<x id="START_TAG_STRONG" ctype="x-strong"/>
+ analistas de crédito<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+ a<x id="LINE_BREAK" ctype="lb"/>
+ tu servicio!</target>
+</trans-unit>
+<trans-unit id="trick_info1" datatype="html">
+<source>Astuce !</source>
+<target>Truco!</target>
+</trans-unit>
+<trans-unit id="trick_info2" datatype="html">
+<source>Préparez dès maintenant les pièces justificatives que vous devez joindre à votre contrat de crédit signé.</source>
+<target>Prepara ahora los justificantes a adjuntar a tu contrato de crédito firmado.</target>
+</trans-unit>
+<trans-unit id="error_new_credit_application" datatype="html">
+<source>Nouvelle demande</source>
+<target>Nueva petición</target>
+</trans-unit>
+<trans-unit id="showAllQuestionsUrl" datatype="html">
+<source>#</source>
+<target>https://es.younited-credit.com/preguntas-frecuentes</target>
+<context-group purpose="location"></context-group>
+</trans-unit>
+<trans-unit id="yourFamilySituation" datatype="html">
+<source>Votre situation familiale</source>
+<target>Situación Familiar</target>
+</trans-unit>
+<trans-unit id="showAllQuestions" datatype="html">
+<source>Voir toutes les questions</source>
+<target>Todas las perguntas</target>
+<context-group purpose="location"></context-group>
+</trans-unit>
+<trans-unit id="insuranceSubTitle" datatype="html">
+<source>Suite aux informations que vous venez de nous communiquer, Younited Credit vous conseille :</source>
+<target>Con la información que nos acabas de comunicar, Younited Credit recomienda:</target>
+</trans-unit>
+<trans-unit id="noInsuranceLoanExclusive" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+            Une assurance dédiée au crédit :    <x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+                      L’assurance Younited Credit est exclusive à votre crédit.
+                      Si vous décidez de ne pas la prendre, aucune autre assurance à laquelle vous avez souscrite ne vous
+                      couvrira en cas de problème.
+</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+            Un seguro dedicado al crédito:    <x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+                      El seguro Younited Credit es exclusivo a tu crédito.
+                      Si decides no aceptarlo, ningún otro seguro te cubrirá en caso de problema.
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceSaferWith" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Soyez rassuré pendant plusieurs années :<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+          Le remboursement du crédit s’échelonne sur plusieurs années.
+          N’oubliez pas de vous prémunir contre les aléas d’un futur qui peut toujours réserver des surprises.
+</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong"/>
+Quédate tranquilo para varios años :<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+          El reembolso del crédito se hace a lo largo de varios años.
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceBasicInvalidityDetails" datatype="html">
+<source>Le remboursement est pris en charge à 100% par l’assurance de Base.</source>
+<target>La aseguradora básica se hace cargo del reembolso del crédito al 100%.</target>
+</trans-unit>
+<trans-unit id="noInsuranceBasicDeathDetails" datatype="html">
+<source>
+          Le solde du crédit est 100% remboursé par l'assurance de Base,
+          vous protégez vos proches contre les difficultés de remboursement.
+</source>
+<target>
+          La aseguradora básica se hace cargo del reembolso del 100% del crédito,
+          protegeras a tus allegados contra los problemas de reembolso.
+</target>
+</trans-unit>
+<trans-unit id="noInsuranceJobLossDetails" datatype="html">
+<source> Grâce à l'option Perte Emploi, le remboursement du crédit est pris en charge pendant la totalité de sa durée d’inactivité.</source>
+<target>Gracias a la opción de pérdida de empleo, el reembolso del credito esta cubierto al 100% durante el periodo de paro.</target>
+</trans-unit>
+<trans-unit id="addBasicInsuranceAndContinue" datatype="html">
+<source>Ajouter et continuer</source>
+<target>Añadir el Seguro básico</target>
+</trans-unit>
+<trans-unit id="addJobLossInsuranceAndContinue" datatype="html">
+<source>Ajouter et continuer</source>
+<target>Añadir el Seguro básico + desempleo</target>
+</trans-unit>
+<trans-unit id="continueWithoutInsurance" datatype="html">
+<source>Continuer (sans assurance)</source>
+<target>Seguir sin seguro</target>
+</trans-unit>
+<trans-unit id="yourProfessionalSituation" datatype="html">
+<source>Votre situation professionnelle</source>
+<target>Tu situación profesional</target>
+</trans-unit>
+<trans-unit id="refused_info_0" datatype="html">
+<source>¡Gracias por confiar en Younited Credit para llevar a cabo tu proyecto !</source>
+<target>¡Gracias por confiar en Younited Credit para llevar a cabo tu proyecto !</target>
+</trans-unit>
+
+<!-- BANK READER -->
+
+<!-- BR CHOICE STEP -->
+
+<trans-unit id="brChoiceStepTitle" datatype="html">
+<source>
+			Votre choix de parcours
+</source>
+<target>
+			Selecciona una opción
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepHeaderTitle" datatype="html">
+<source>
+			Vous avez deux parcours possibles pour faire votre demande de crédit :
+</source>
+<target>
+			Selecciona una opción para continuar con tu solicitud:
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepError" datatype="html">
+<source>
+			Merci de faire un choix entre les deux options de parcours pour pouvoir continuer votre demande
+</source>
+<target>
+			Por favor, selecciona una de las dos opciones para continuar con tu solicitud
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepOption1" datatype="html">
+<source>
+			Option 1
+</source>
+<target>
+			OPCIÓN 1
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepOption2" datatype="html">
+<source>
+			Option 2
+</source>
+<target>
+			OPCIÓN 2
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepDescription1" datatype="html">
+<source>
+<x id="START_TAG_SPAN" ctype="x-span"/>
+Connecter<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+  Younited Credit à
+<x id="START_TAG_SPAN" ctype="x-span"/>
+votre banque<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+ de prélèvement
+</source>
+<target>
+<x id="START_TAG_SPAN" ctype="x-span"/>
+Sincronización<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+ automática con
+<x id="START_TAG_SPAN" ctype="x-span"/>
+tu Banco<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+ (Recomendado)
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepDescription2" datatype="html">
+<source>
+<x id="START_TAG_SPAN" ctype="x-span"/>
+Continuer <x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+le formulaire
+<x id="START_TAG_SPAN" ctype="x-span"/>
+sans connecter<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+ Younited Credit
+<x id="START_TAG_SPAN" ctype="x-span"/>
+à votre banque<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+</source>
+<target>
+<x id="START_TAG_SPAN" ctype="x-span"/>
+Continuar <x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+la solicitud
+<x id="START_TAG_SPAN" ctype="x-span"/>
+sin conectar<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+ Younited Credit
+<x id="START_TAG_SPAN" ctype="x-span"/>
+con tu banco<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepHeaderItems" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+      Vous aurez besoin de fournir les identifiants et mot de passe de votre banque.
+<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+<x id="START_UNORDERED_LIST" ctype="x-ul"/>
+<x id="START_LIST_ITEM" ctype="x-li"/>
+Gagnez du temps avec un formulaire plus rapide<x id="CLOSE_LIST_ITEM" ctype="x-li"/>
+<x id="START_LIST_ITEM" ctype="x-li"/>
+Réduisez la liste des justificatifs que vous devrez transmettre<x id="CLOSE_LIST_ITEM" ctype="x-li"/>
+<x id="CLOSE_UNORDERED_LIST" ctype="x-ul"/>
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+      Conéctate con tu usuario y contraseña para sincronizar información.
+<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+<x id="START_UNORDERED_LIST" ctype="x-ul"/>
+<x id="START_LIST_ITEM" ctype="x-li"/>
+Ahorra tiempo con una solicitud más rápida<x id="CLOSE_LIST_ITEM" ctype="x-li"/>
+<x id="START_LIST_ITEM" ctype="x-li"/>
+Reduce al máximo los documentos que tendrás que subir<x id="CLOSE_LIST_ITEM" ctype="x-li"/>
+<x id="CLOSE_UNORDERED_LIST" ctype="x-ul"/>
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepMore" datatype="html">
+<source>
+			En savoir plus
+</source>
+<target>
+			Saber más
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepLearnMore" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+En nous permettant de lire les opérations de votre compte courant principal, nous pouvons <x id="START_TAG_STRONG" ctype="x-strong" />
+accélérer l'analyse de votre demande<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ de crédit et vous livrer vos fonds plus rapidement.<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+En effet, ces informations nous permettent de vous proposer un <x id="START_TAG_STRONG" ctype="x-strong" />
+formulaire plus court<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ (car nous récupérons des informations en temps réel plutôt que de vous demander de les saisir) et leur qualité nous permet d'alléger considérablement la liste des justificatifs que vous devrez ensuite transmettre.<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+Mediante la conexión automática, podemos <x id="START_TAG_STRONG" ctype="x-strong" />
+analizar de forma más rápida tu solicitud<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ y así enviarte tus fondos antes.<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+Ademas, te podemos proponer un <x id="START_TAG_STRONG" ctype="x-strong" />
+formulario más corto<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ (recibimos de tu banco información que ya no necesitamos pedirte) y del mismo modo, disminuir los documentos que posteriormente tendrías que subir para justificar esta información.<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepLearnMoreTitle" datatype="html">
+<source>Mais comment ça fonctionne ?</source>
+<target>Pero… ¿cómo funciona?</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepLearnMore2" datatype="html">
+<source>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+En restant sur notre site, nous allons vous demander les identifiant et mot de passe de votre banque principale. <x id="START_TAG_STRONG" ctype="x-strong" />
+Nous ne stockons par les informations<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ qui nous permettent de lire vos opérations de compte courant à des fins d'analyse.<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+</source>
+<target>
+<x id="START_PARAGRAPH" ctype="x-p"/>
+Una vez seleccionas tu banco e introduces tus credenciales, tu banco nos envía un extracto de tus movimientos. Es un proceso 100% seguro, rápido y automático. <x id="START_TAG_STRONG" ctype="x-strong" />
+En ningún caso guardamos tus credenciales.<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+<x id="CLOSE_PARAGRAPH" ctype="x-p"/>
+</target>
+</trans-unit>
+
+<trans-unit id="brChoiceStepMoreTitle" datatype="html">
+<source>
+<x id="START_TAG_SPAN" ctype="x-span"/>
+La connexion à votre banque, pour quoi faire ?<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+</source>
+<target>
+<x id="START_TAG_SPAN" ctype="x-span"/>
+¿Por qué nuestros clientes eligen conectar con su banco ?<x id="CLOSE_TAG_SPAN" ctype="x-span"/>
+</target>
+</trans-unit>
+
+<!-- END OF BR CHOICE STEP-->
+
+<!-- BANK SELECTION STEP -->
+<trans-unit id="brBankSelectionStepTitle" datatype="html">
+<source>
+			Votre situation financière
+</source>
+<target>
+			Tus datos Financieros
+</target>
+</trans-unit>
+<!--END OF BANK SELECTION STEP -->
+
+<!-- BANK CONNECTION STEP -->
+
+<trans-unit id="brBankConnexionStepTitle" datatype="html">
+<source>
+			Connexion à votre banque
+</source>
+<target>
+			Conexión segura a tu banco
+</target>
+</trans-unit>
+
+<trans-unit id="brBankSelectionStepCredentialsTitle" datatype="html">
+<source>
+			Complétez maintenant les champs qui vous permettent de vous identifier lors d'une visite de votre espace client à votre banque
+</source>
+<target>
+			Introduce los datos que usas para conectar al espacio de cliente web de tu banco.
+</target>
+</trans-unit>
+
+<trans-unit id="brBankSelectionStepCredentialsContent" datatype="html">
+<source>
+			A aucun moment nous ne stockons vos identifiants / mot de passe.
+</source>
+<target>
+			No almacenamos tus datos, se envían directamente a tu banco de forma segura
+</target>
+</trans-unit>
+
+<trans-unit id="brOptin" datatype="html">
+<source>
+			J'accepte les termes et conditions du service d'agrégation de Younited Credit
+</source>
+<target>
+			Acepto los términos y condiciones del servicio de conexión de Younited Crédit
+</target>
+</trans-unit>
+
+<trans-unit id="brLoading" datatype="html">
+<source>
+			Chargement...
+</source>
+<target>
+			Chargement...
+</target>
+</trans-unit>
+
+<trans-unit id="brConnecting" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Nous nous connectons à votre interface bancaire.<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+<x id="LINE_BREAK" ctype="lb" />
+Ne quittez pas la page, ceci peut prendre quelques minutes.
+</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Espere por favor, tu banco nos está enviando información.<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+<x id="LINE_BREAK" ctype="lb" />
+ Esto puede tomar hasta unos pocos minutos.
+</target>
+</trans-unit>
+
+<trans-unit id="brSucceed" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Merci, la connexion s'est bien effectuée.<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+<x id="LINE_BREAK" ctype="lb" />
+Nous vous invitons maintenant à continuer le formulaire.
+</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Gracias, hemos sincronizado la información con éxito.<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+<x id="LINE_BREAK" ctype="lb" />
+Te invitamos a seguir completando tu solicitud de préstamo.
+</target>
+</trans-unit>
+
+<trans-unit id="brFailed" datatype="html">
+<source>
+			La connexion à votre banque n'a pas pu aboutir.<x id="LINE_BREAK" ctype="lb"/>
+Pour continuer, merci de vérifier vos identifiant et mot de passe.
+</source>
+<target>
+			Parece que la contraseña no es correcta.<x id="LINE_BREAK" ctype="lb"/>
+Por favor, asegúrate de poner el usuario y contraseña de tu banca online.
+</target>
+</trans-unit>
+
+<trans-unit id="brOptinClickHere" datatype="html">
+<source>
+			Consultez
+</source>
+<target>
+			Consulta
+</target>
+</trans-unit>
+
+<trans-unit id="brBankSelectionStepLeave" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Passer cette étape :<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ Continuer sans renseigner mes identifiants
+</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Saltar el paso:<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ Continuar mi solicitud sin conectar con mi banco
+</target>
+</trans-unit>
+
+<!-- END OF BANK CONNECTION STEP -->
+
+<!-- UPSELL -->
+
+<trans-unit id="upsellBigSentence" datatype="html">
+<source>
+			Vous pouvez emprunter un peu plus si vous le souhaitez !
+</source>
+<target>
+			¡Si quieres puedes pedir un poco más!
+</target>
+</trans-unit>
+
+<trans-unit id="upsellSmallSentence" datatype="html">
+<source>
+			Sélectionnez le montant qui vous intéresse:
+</source>
+<target>
+			Selecciona el importe que quieras:
+</target>
+</trans-unit>
+
+<trans-unit id="upsellOfferStepTitle" datatype="html">
+<source>
+			Votre choix
+</source>
+<target>
+			Tu elección
+</target>
+</trans-unit>
+
+<trans-unit id="upsellOfferSubTitle" datatype="html">
+<source>
+			Nous sommes heureux de vous préaccepter pour votre demande de
+</source>
+<target>
+			Nous sommes heureux de vous préaccepter pour votre demande de
+</target>
+</trans-unit>
+
+<trans-unit id="upsellOfferTitle1" datatype="html">
+<source>
+			Vous êtes éligible à
+</source>
+<target>
+			Vous êtes éligible à
+</target>
+</trans-unit>
+
+<trans-unit id="upsellOfferTitle2" datatype="html">
+<source>
+			de plus sur votre crédit !
+</source>
+<target>
+			de plus sur votre crédit !
+</target>
+</trans-unit>
+
+<trans-unit id="upsellNewOfferButton" datatype="html">
+<source>
+			Voir votre nouvelle offre de
+</source>
+<target>
+			Voir votre nouvelle offre de
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContinueWithNoChanges" datatype="html">
+<source>
+			Continuer sans changer de montant
+</source>
+<target>
+			Continuer sans changer de montant
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentTitle" datatype="html">
+<source>
+			Notre nouvelle offre pour
+</source>
+<target>
+			Notre nouvelle offre pour
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentTitleAmount" datatype="html">
+<source>
+			Montant
+</source>
+<target>
+			Montant
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentTitleMonthAmount" datatype="html">
+<source>
+			Mensualité
+</source>
+<target>
+			Mensualité
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentTitleMaturity" datatype="html">
+<source>
+			Durée
+</source>
+<target>
+			Durée
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentTitleTAEG" datatype="html">
+<source>
+			TAEG
+</source>
+<target>
+			TAEG
+</target>
+</trans-unit>
+
+<trans-unit id="upsellTaegLong" datatype="html">
+<source>
+			(TAEG fixe*
+</source>
+<target>
+			(TAEG fixe*
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentAmountInMonth" datatype="html">
+<source>
+			/mois
+</source>
+<target>
+			/mes
+</target>
+</trans-unit>
+
+<trans-unit id="upsellPerMaturity" datatype="html">
+<source>
+			sur
+</source>
+<target>
+			durante
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentMonth" datatype="html">
+<source>
+			mois
+</source>
+<target>
+			meses
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentInMonth" datatype="html">
+<source>
+			€/mois
+</source>
+<target>
+			€/mes
+</target>
+</trans-unit>
+
+<trans-unit id="upsellFreeWithoutEngagement" datatype="html">
+<source>
+		Gratuit et sans engagement
+</source>
+<target>
+		Gratuit et sans engagement
+</target>
+</trans-unit>
+
+<trans-unit id="upsellYourOffer" datatype="html">
+<source>
+		Votre offre actuelle
+</source>
+<target>
+		Tu oferta actual
+</target>
+</trans-unit>
+
+<trans-unit id="upsellNewOffer" datatype="html">
+<source>
+		Votre nouvelle offre
+</source>
+<target>
+		Tu nueva oferta
+</target>
+</trans-unit>
+
+<trans-unit id="upsellContentInsurance" datatype="html">
+<source>
+		Insurance
+</source>
+<target>
+		Seguro
+</target>
+</trans-unit>
+
+<!-- END OF UPSELL -->
+
+<!-- METAMORPH -->
+
+<!-- PRESELECTED OFFER -->
+
+<trans-unit id="preselectedOfferYourOffer" datatype="html">
+<source>
+		Présentation de votre offre
+</source>
+<target>
+		Presentación de tu oferta
+</target>
+</trans-unit>
+
+<trans-unit id="preselectedOfferIntroductionTitle" datatype="html">
+<source>
+		voici l'offre que nous avons sélectionnée pour vous :
+</source>
+<target>
+		esta es la oferta personalizada para ti:
+</target>
+</trans-unit>
+
+
+
+<trans-unit id="preselectedOfferPerMonth" datatype="html">
+<source>
+		par mois
+</source>
+<target>
+		al mes
+</target>
+</trans-unit>
+
+<trans-unit id="preselectedOfferMaturity" datatype="html">
+<source>
+      sur&nbsp;<x id="START_TAG_STRONG" ctype="x-strong"/>
+<x id="INTERPOLATION" equiv-text="{{preSelectedOffer.maturity}}"/>
+&nbsp;mois<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+</source>
+<target>
+      en&nbsp;<x id="START_TAG_STRONG" ctype="x-strong"/>
+<x id="INTERPOLATION" equiv-text="{{preSelectedOffer.maturity}}"/>
+&nbsp;meses<x id="CLOSE_TAG_STRONG" ctype="x-strong"/>
+</target>
+</trans-unit>
+
+<trans-unit id="preselectedOfferTAEG" datatype="html">
+<source>
+      (<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION" />
+%<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+&nbsp;TAEG&nbsp;fixe&nbsp;*)
+</source>
+<target>
+      (<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION" />
+%<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+&nbsp;TAE&nbsp;fija)
+</target>
+</trans-unit>
+
+<trans-unit id="preselectedOfferInsuranceMonth" datatype="html">
+<source>
+      /mois d'assurance
+</source>
+<target>
+      /mes de seguro
+</target>
+</trans-unit>
+
+<trans-unit id="preselectedOfferSeeOthersOffers" datatype="html">
+<source>
+      Voir les autres offres
+</source>
+<target>
+      Ver otras ofertas
+</target>
+</trans-unit>
+
+<!-- END PRESELECTED OFFER -->
+
+<!-- END METAMORPH -->
+
+<trans-unit id="dataUsageWarning" datatype="html">
+<source>ATTENTION: les informations saisies seront également utilisées pour remplir le questionnaire permettant d’évaluer les besoins du client, les besoins en assurance et le caractère adéquat du contrat.</source>
+<target></target>
+</trans-unit>
+
+<!-- Dyn Component V2 impact -->
+<!-- Family step -->
+<trans-unit id="MARITAL_STATUS_LBL" datatype="html">
+<source>Situation familiale</source>
+<target>Tu estado civil</target>
+</trans-unit>
+<trans-unit id="SELECT_FAMILY_MARITAL_STATUS_LBL" datatype="html">
+<source>Choisissez votre situation familiale</source>
+<target>Seleccionar…</target>
+</trans-unit>
+<trans-unit id="SELECT_LBL" datatype="html">
+<source>Choisissez...</source>
+<target>Seleccionar…</target>
+</trans-unit>
+<trans-unit id="WERE_YOU_MARRIED_LBL" datatype="html">
+<source>Votre conjoint et vous étiez vous mariés ?</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ARE_YOU_DIVORCED_LBL" datatype="html">
+<source>Disposez vous d'un jugement de divorce ou d'une ordonnance de non conciliation ?</source>
+<target></target>
+</trans-unit>
+<trans-unit id="CHILD_NUMBER_LBL" datatype="html">
+<source>Nombre d’enfants à charge</source>
+<target>Número de personas a cargo</target>
+</trans-unit>
+<trans-unit id="INFO_NUMBER_CHILD" datatype="html">
+<source>Prenez en compte uniquement les enfants qui sont rattachés à votre foyer fiscal</source>
+<target>Incluir todos los hijos y otras personas que estén a tu cargo</target>
+</trans-unit>
+<trans-unit id="SELECT_FAMILY_CHILD_NUMBER_LBL" datatype="html">
+<source>Choisissez le nombre d'enfants à charge</source>
+<target>Seleccionar…</target>
+</trans-unit>
+<!-- End Family step -->
+
+<!-- Professional situation step -->
+<trans-unit id="ACTIVITY_SECTOR_LBL" datatype="html">
+<source>Secteur d’activité</source>
+<target>Situación laboral</target>
+</trans-unit>
+<trans-unit id="SELECT_PROFESSION_ACTIVITY_LBL" datatype="html">
+<source>Choisissez votre secteur d'activité</source>
+<target>Selecciona tu situación laboral actual</target>
+</trans-unit>
+<trans-unit id="SECTOR_LBL" datatype="html">
+<source>Sector</source>
+<target>Sector</target>
+</trans-unit>
+<trans-unit id="PROFESSION_LBL" datatype="html">
+<source>Profession</source>
+<target>Profesión</target>
+</trans-unit>
+<trans-unit id="SELECT_PROFESSION_PROFESSION_LBL" datatype="html">
+<source>Choisissez votre profession</source>
+<target>Selecciona tu profesión</target>
+</trans-unit>
+<trans-unit id="CONTRACT_TYPE_LBL" datatype="html">
+<source>Type de contrat de travail</source>
+<target></target>
+</trans-unit>
+<trans-unit id="SELECT_PROFESSION_CONTRACT_LBL" datatype="html">
+<source>Choisissez votre contrat de travail</source>
+<target>Selecciona tu tipo de pensión</target>
+</trans-unit>
+<trans-unit id="COMPANY_TYPE_LBL" datatype="html">
+<source>Company type</source>
+<target></target>
+</trans-unit>
+<trans-unit id="PENSION_TYPE_LBL" datatype="html">
+<source>Pension type</source>
+<target>Tipo de pensión</target>
+</trans-unit>
+<trans-unit id="EMPLOYED_FROM_LBL" datatype="html">
+<source>Depuis quand</source>
+<target>Desde</target>
+</trans-unit>
+<trans-unit id="EMPLOYED_TO_LBL" datatype="html">
+<source>To</source>
+<target>Hasta</target>
+</trans-unit>
+<trans-unit id="INFO_EMPLOYED_FROM_LBL" datatype="html">
+<source>Enter the start date of your current job</source>
+<target>Fecha de inicio de tu contrato actual</target>
+</trans-unit>
+<trans-unit id="PENSION_START_DATE_LBL" datatype="html">
+<source>À la retraite depuis</source>
+<target>Fecha de inicio</target>
+</trans-unit>
+<trans-unit id="BUSINESS_ACTIVITY_START_DATE_LBL" datatype="html">
+<source>Date de création de la société que vous gérez ou dirigez</source>
+<target>Fecha de inicio de la actividad</target>
+</trans-unit>
+<trans-unit id="IS_COMPANY_BANKRUPT_LBL" datatype="html">
+<source>Une de vos sociétés est-elle en liquidation ou procédure collective ?</source>
+<target>¿Está tu empresa en suspención de pagos o liquidación?</target>
+</trans-unit>
+<trans-unit id="IS_COMPANY_BANKRUPT_INFO_LBL" datatype="html">
+<source>Is company bankrupt ?</source>
+<target></target>
+</trans-unit>
+<trans-unit id="CO_BORROWER_ACTIVITY_SECTOR_LBL" datatype="html">
+<source>Secteur d’activité du conjoint</source>
+<target></target>
+</trans-unit>
+<trans-unit id="SELECT_PROFESSION_SECTEUR_ACTIVITY_LBL" datatype="html">
+<source>Choisissez le secteur d'activité de votre conjoint</source>
+<target>Seleccionar...</target>
+</trans-unit>
+<trans-unit id="CO_BORROWER_PROFESSION_LBL" datatype="html">
+<source>Profession du conjoint</source>
+<target>Profession du conjoint</target>
+</trans-unit>
+<trans-unit id="SELECT_PROFESSION_CONJOINT_PROFESSION_LBL" datatype="html">
+<source>Choisissez la profession de votre conjoint</source>
+<target>Seleccionar...</target>
+</trans-unit>
+<trans-unit id="CO_BORROWER_CONTRACT_TYPE_LBL" datatype="html">
+<source>Type de contrat de travail du conjoint</source>
+<target></target>
+</trans-unit>
+<trans-unit id="SELECT_PROFESSION_CONJOINT_CONTRACT_LBL" datatype="html">
+<source>Choisissez le contrat de travail de votre conjoint</source>
+<target>Seleccionar...</target>
+</trans-unit>
+<trans-unit id="DAY_LBL" datatype="html">
+<source>Jour</source>
+<target>Día</target>
+</trans-unit>
+<trans-unit id="DAY_PLACEHOLDER_LBL" datatype="html">
+<source>JJ</source>
+<target>DD</target>
+</trans-unit>
+<trans-unit id="MONTH_LBL" datatype="html">
+<source>>Mois</source>
+<target>Mes</target>
+</trans-unit>
+<trans-unit id="MONTH_PLACEHOLDER_LBL" datatype="html">
+<source>MM</source>
+<target>MM</target>
+</trans-unit>
+<trans-unit id="YEAR_LBL" datatype="html">
+<source>Année</source>
+<target>Año</target>
+</trans-unit>
+<trans-unit id="YEAR_PLACEHOLDER_LBL" datatype="html">
+<source>AAAA</source>
+<target>AAAA</target>
+</trans-unit>
+<!-- End Professional situation step -->
+
+<!-- Agent information step -->
+<trans-unit id="AGENT_INFO_STEP_TITLE" datatype="html">
+<source>Agent information</source>
+<target></target>
+</trans-unit>
+<trans-unit id="AGENT_FIRST_NAME_LBL" datatype="html">
+<source>Agent first name</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ENTER_AGENT_FIRST_NAME_LBL" datatype="html">
+<source>Please enter first name</source>
+<target></target>
+</trans-unit>
+<trans-unit id="AGENT_LAST_NAME_LBL" datatype="html">
+<source>Agent last name</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ENTER_AGENT_LAST_NAME_LBL" datatype="html">
+<source>Please enter last name</source>
+<target></target>
+</trans-unit>
+<trans-unit id="AGENT_FISCAL_CODE_LBL" datatype="html">
+<source>Agent fiscal code</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ENTER_AGENT_FISCAL_CODE_LBL" datatype="html">
+<source>Please enter agent fiscal code</source>
+<target></target>
+</trans-unit>
+<trans-unit id="AGENT_PHONE_NUMBER_LBL" datatype="html">
+<source>Agent phone number</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ENTER_AGENT_PHONE_NUMBER_LBL" datatype="html">
+<source>Please enter agent phone number</source>
+<target></target>
+</trans-unit>
+<trans-unit id="AGENT_CODE_LBL" datatype="html">
+<source>Agent code</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ENTER_AGENT_CODE_LBL" datatype="html">
+<source>Please enter agen code</source>
+<target></target>
+</trans-unit>
+<trans-unit id="INFO_AGENT_CODE_LBL" datatype="html">
+<source>Agent code has 3 or 4 digits</source>
+<target></target>
+</trans-unit>
+<trans-unit id="AGENCY_LBL" datatype="html">
+<source>Agency</source>
+<target></target>
+</trans-unit>
+<trans-unit id="SELECT_AGENCY_LBL" datatype="html">
+<source>Please select agency</source>
+<target></target>
+</trans-unit>
+<trans-unit id="CLIENT_EMAIL_LBL" datatype="html">
+<source>Client e-mail</source>
+<target></target>
+</trans-unit>
+<trans-unit id="ENTER_CLIENT_EMAIL_LBL" datatype="html">
+<source>Please enter client e-mail</source>
+<target></target>
+</trans-unit>
+<trans-unit id="INFO_CLIENT_EMAIL_LBL" datatype="html">
+<source>address@email.com</source>
+<target></target>
+</trans-unit>
+<trans-unit id="PLACE_OF_DEMAND_LBL" datatype="html">
+<source>Place of demand</source>
+<target></target>
+</trans-unit>
+<trans-unit id="SELECT_PLACE_OF_DEMAND_LBL" datatype="html">
+<source>Select where you did the demand</source>
+<target></target>
+</trans-unit>
+<trans-unit id="OPTIN_AGREE_WITH_AGENCY_CONTRACT" datatype="html">
+<source>Agree with <x id="START_LINK" ctype="x-a" />
+agency contract<x id="CLOSE_LINK" ctype="x-a" />
+</source>
+<target></target>
+</trans-unit>
+<!-- End Agent information step -->
+
+<!-- Bank step -->
+<trans-unit id="SELECT_BANK_LBL" datatype="html">
+<source>SELECT_BANK_LBL</source>
+<target>Selecciona tu banco</target>
+</trans-unit>
+<trans-unit id="BANK_CODE_LBL" datatype="html">
+<source>BANK_CODE_LBL</source>
+<target>Banco</target>
+</trans-unit>
+<trans-unit id="INFO_BANK_CODE_LBL" datatype="html">
+<source>INFO_BANK_CODE_LBL</source>
+<target>Tu banco principal donde se domicilia tu salario</target>
+</trans-unit>
+<trans-unit id="BANK_FROM_LBL" datatype="html">
+<source>BANK_FROM_LBL</source>
+<target>Desde</target>
+</trans-unit>
+<trans-unit id="BANK_FROM_SUB_LBL" datatype="html">
+<source>BANK_FROM_SUB_LBL</source>
+<target></target>
+</trans-unit>
+<!-- End Bank step -->
+
+<!-- End Dyn Component V2 impact -->
+
+
+<trans-unit id="computeOfferGreeting" datatype="html">
+<source>
+<x id="INTERPOLATION" />
+,<x id="LINE_BREAK" ctype="lb" />
+Nous allons afficher les offres adaptées à votre profil.</source>
+<target>
+<x id="INTERPOLATION" />
+,<x id="LINE_BREAK" ctype="lb" />
+ta vamos a mostrar las ofertas que se adaptan a tu perfil.</target>
+</trans-unit>
+
+<trans-unit id="computeOfferProgress1" datatype="html">
+<source>Vos informations</source>
+<target>Tu información</target>
+</trans-unit>
+
+<trans-unit id="computeOfferProgress2" datatype="html">
+<source>Offres de crédit</source>
+<target>Ofertas de préstamo</target>
+</trans-unit>
+
+<trans-unit id="computeOfferProgress3" datatype="html">
+<source>Justificatifs &amp; signature</source>
+<target>Documentos y firma</target>
+</trans-unit>
+
+<trans-unit id="computeOfferProgress4" datatype="html">
+<source>Versement</source>
+<target>Pago</target>
+</trans-unit>
+
+<trans-unit id="EMAIL_PLACE_HOLDER" datatype="html">
+<source></source>
+<target>direccion@email.com</target>
+</trans-unit>
+
+<trans-unit id="emailStepTitle" datatype="html">
+<source>Découvrez votre offre de prêt de</source>
+<target>Descubre tu oferta de préstamo de</target>
+</trans-unit>
+
+<trans-unit id="emailStepCaption" datatype="html">
+<source>Première étape</source>
+<target>Primer paso</target>
+</trans-unit>
+
+<trans-unit id="emailStepSubCaption" datatype="html">
+<source>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Nous avons besoin de votre email pour vous envoyer les offres <x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+(sans engagement)</source>
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+Necesitamos tu email para enviarte la oferta <x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+(sin compromiso)</target>
+</trans-unit>
+
+<trans-unit id="emailStepCTA" datatype="html">
+<source>Voir mon offre personnalisée</source>
+<target>Ver mi oferta personalizada</target>
+</trans-unit>
+
+<trans-unit id="BLOC_LOGOS_BANK_P1" datatype="html">
+<source>ÉTABLISSEMENT AGRÉÉ PAR</source>
+<target>ENTIDAD REGULADA POR</target>
+</trans-unit>
+
+<trans-unit id="BLOC_LOGOS_BANK_P2" datatype="html">
+<source>L'AUTORITÉ DE CONTRÔLE <x id="LINE_BREAK" ctype="lb" />
+ PRUDENTIEL ET DE RÉSOLUTION</source>
+<target>EL BANCO DE ESPAÑA Y BANCO DE FRANCIA</target>
+</trans-unit>
+
+<trans-unit id="BLOC_LOGOS_BANK_P3" datatype="html">
+<source>N° d'agrément 16488</source>
+<target>Inscripción n°1560</target>
+</trans-unit>
+
+<trans-unit id="BLOC_LOGOS_GUARANTEE_P2" datatype="html">
+<source>GARANTIE Younited Crédit <x id="LINE_BREAK" ctype="lb" />
+ TIERS DE CONFIANCE ENTRE</source>
+<target>GARANTIA Younited Credit <x id="LINE_BREAK" ctype="lb" />
+ TERCERO DE CONFIANZA ENTRE PRESTATARIOS E INVERSORES</target>
+</trans-unit>
+
+<trans-unit id="BLOC_LOGOS_GUARANTEE_P3" datatype="html">
+<source>Emprunteurs & Investisseurs</source>
+<target></target>
+</trans-unit>
+
+
+
+<trans-unit id="GENDER_LBL" datatype="html">
+<source></source>
+<target>Tratamiento</target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_NOM_LBL" datatype="html">
+<source></source>
+<target>Introduce tu primer apellido</target>
+</trans-unit>
+
+<trans-unit id="LASTNAME_LBL" datatype="html">
+<source></source>
+<target>Primer Apellido</target>
+</trans-unit>
+
+<trans-unit id="INFO_LASTNAME_LBL" datatype="html">
+<source></source>
+<target>Tal y como aparece en tu documento de identidad</target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_NOM_DE_FILLE_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="MAIDEN_NAME_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_PRENOM_LBL" datatype="html">
+<source></source>
+<target>Introduce tu nombre (ej: Juan Antonio)</target>
+</trans-unit>
+
+<trans-unit id="FIRSTNAME_LBL" datatype="html">
+<source></source>
+<target>Nombre completo</target>
+</trans-unit>
+
+<trans-unit id="INFO_FIRSTNAME_LBL" datatype="html">
+<source></source>
+<target>Tal y como aparece en tu documento de identidad</target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_SECOND_LASTNAME_PLACEHOLDER_LBL" datatype="html">
+<source></source>
+<target>Introduce tu segundo apellido</target>
+</trans-unit>
+
+<trans-unit id="SECOND_LASTNAME_LBL" datatype="html">
+<source></source>
+<target>Segundo Apellido</target>
+</trans-unit>
+
+<trans-unit id="FISCAL_CODE_PLACEHOLDER_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="FISCAL_CODE_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="BLANK_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="VAT_NUMBER_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="DATE_OF_BIRTH_LBL" datatype="html">
+<source></source>
+<target>Fecha de nacimiento</target>
+</trans-unit>
+
+<trans-unit id="SELECT_IDENTITY_NATIONALITY_LBL" datatype="html">
+<source></source>
+<target>Selecciona tu nacionalidad</target>
+</trans-unit>
+
+<trans-unit id="NATIONALITY_LBL" datatype="html">
+<source></source>
+<target>Nacionalidad</target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_NATIONAL_DOCUMENT_PLACEHOLDER_LBL" datatype="html">
+<source></source>
+<target>Introduce tu DNI (sin compromiso)</target>
+</trans-unit>
+
+<trans-unit id="NATIONAL_DOCUMENT_ID_LBL" datatype="html">
+<source></source>
+<target>DNI</target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_FOREIGN_DOCUMENT_PLACEHOLDER_LBL" datatype="html">
+<source></source>
+<target>Introduce tu NIE (sin compromiso)</target>
+</trans-unit>
+
+<trans-unit id="FOREIGN_DOCUMENT_ID_LBL" datatype="html">
+<source></source>
+<target>NIE</target>
+</trans-unit>
+
+<trans-unit id="IDENTITY_POSTAL_CODE_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="BIRTH_POSTAL_CODE_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="BIRTH_CITY_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="POSTAL_CODE_SUB_LBL" datatype="html">
+<source></source>
+<target>El código postal se compone de 5 cifras.</target>
+</trans-unit>
+
+<trans-unit id="RESIDENCE_CARD_EXPIRATION_DATE_LBL" datatype="html">
+<source></source>
+<target>Fecha de validez del NIE</target>
+</trans-unit>
+
+<trans-unit id="partnerIdentityStepTitle" datatype="html">
+<source>Your partner personal informations</source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_GENDER_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_LASTNAME_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_MAIDEN_NAME_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_FIRSTNAME_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_DATE_OF_BIRTH_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_BIRTH_POSTAL_CODE_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_BIRTH_CITY_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PARTNER_RESIDENCE_CARD_EXPIRATION_DATE_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="UPSELL_STEP_TITLE" datatype="html">
+<source>Votre trésorerie supplémentaire</source>
+<target>Solicita un importe superior</target>
+</trans-unit>
+
+<trans-unit id="CREDIT_PREAPPROVED_CAPTION" datatype="html">
+<source>@@CREDIT_PREAPPROVED_CAPTION</source>
+<target>Tu solicitud está pre-aprobada !</target>
+</trans-unit>
+
+<trans-unit id="UPSELL_STEP_CAPTION_1" datatype="html">
+<source>@@UPSELL_STEP_CAPTION_1</source>
+<target>Si lo deseas ¡Puedes pedir un poco más!</target>
+</trans-unit>
+
+<trans-unit id="UPSELL_STEP_CAPTION_2" datatype="html">
+<source>@@UPSELL_STEP_CAPTION_2</source>
+<target>Por favor, selecciona el importe que deseas:</target>
+</trans-unit>
+
+<trans-unit id="UPSELL_STEP_MONTHLY" datatype="html">
+<source>/mois sur <x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION" />
+ mois<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</source>
+<target>/mes en <x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION" />
+ meses<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+
+<trans-unit id="modifyOfferOtherOffers" datatype="html">
+<source>Autres offres</source>
+<target>Otras ofertas</target>
+</trans-unit>
+
+<trans-unit id="modifyOfferIntroductionTitle" datatype="html">
+<source>Nous vous proposons les offres suivantes pour votre projet de</source>
+<target>Te ofrecemos las siguientes ofertas para tu projecto de <x id="INTERPOLATION" />
+€:</target>
+</trans-unit>
+
+<trans-unit id="integrateOfferGreeting" datatype="html">
+<source>
+<x id="INTERPOLATION" />
+,<x id="LINE_BREAK" ctype="lb" />
+Nous enregistrons votre souhait avant de passer à l'administratif…<x id="LINE_BREAK" ctype="lb" />
+Promis, zéro papier !</source>
+<target>
+<x id="INTERPOLATION" />
+,<x id="LINE_BREAK" ctype="lb" />
+necesitamos ciertos documentos para acabar…<x id="LINE_BREAK" ctype="lb" />
+¡Te prometemos 0 papeleo!</target>
+</trans-unit>
+
+<trans-unit id="HOUSING_STATUS_LBL" datatype="html">
+<source></source>
+<target>Tipo de vivienda</target>
+</trans-unit>
+
+<trans-unit id="SELECT_HOUSING_LBL" datatype="html">
+<source></source>
+<target>Selecciona tu tipo de vivienda</target>
+</trans-unit>
+
+<trans-unit id="HOUSING_FROM_LBL" datatype="html">
+<source></source>
+<target>Desde</target>
+</trans-unit>
+
+<trans-unit id="HOUSING_FROM_SUB_LBL" datatype="html">
+<source></source>
+<target>Fecha de entrada en tu vivenda actual</target>
+</trans-unit>
+
+<trans-unit id="MONTHLY_AMOUNT_LBL_INCOME" datatype="html">
+<source>€/mois</source>
+<target>Importe mensual €</target>
+</trans-unit>
+<trans-unit id="MONTHLY_AMOUNT_LBL_COINCOME" datatype="html">
+<source>€/mois</source>
+<target>Importe mensual €</target>
+</trans-unit>
+
+<trans-unit id="LOAN_TYPE_LBL" datatype="html">
+<source>Type de crédit</source>
+<target>Tipo de préstamo</target>
+</trans-unit>
+
+<trans-unit id="LOAN_AMOUNT_LBL" datatype="html">
+<source>LOAN_AMOUNT_LBL</source>
+<target>Cuota mensual</target>
+</trans-unit>
+
+<trans-unit id="LOAN_AMOUNT_SUB_LBL" datatype="html">
+<source>LOAN_AMOUNT_SUB_LBL</source>
+<target></target>
+</trans-unit>
+<trans-unit id="UPSELL_ERROR_NO_OFFER_SELECTED" datatype="html">
+<source></source>
+<target>Por favor, selecciona una de las dos opciones para continuar con tu solicitud</target>
+</trans-unit>
+
+<trans-unit id="MAIN_INCOME_LBL" datatype="html">
+<source>MAIN_INCOME_LBL</source>
+<target>Ingresos netos mensuales</target>
+</trans-unit>
+
+<trans-unit id="MAIN_INCOME_SUB_LBL" datatype="html">
+<source>MAIN_INCOME_SUB_LBL</source>
+<target>Salario neto mensual fijo (excluyendo variable) y/o pensión y/o ingresos de actividad como Autónomo</target>
+</trans-unit>
+
+<trans-unit id="SELECT_FINANCIAL_MONTHS_NUMBER_LBL" datatype="html">
+<source>SELECT_FINANCIAL_MONTHS_NUMBER_LBL</source>
+<target>Selecciona el número de pagas anuales</target>
+</trans-unit>
+
+<trans-unit id="NUMBER_OF_MONTHS_OF_PAYMENT_LBL" datatype="html">
+<source>NUMBER_OF_MONTHS_OF_PAYMENT_LBL</source>
+<target>En</target>
+</trans-unit>
+
+<trans-unit id="NUMBER_OF_MONTHS_OF_PAYMENT_SUB_LBL" datatype="html">
+<source>NUMBER_OF_MONTHS_OF_PAYMENT_SUB_LBL</source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="CO_INCOME_LBL" datatype="html">
+<source>CO_INCOME_LBL</source>
+<target>Ingresos mensuales del cónyuge</target>
+</trans-unit>
+
+<trans-unit id="CO_INCOME_SUB_LBL" datatype="html">
+<source>CO_INCOME_SUB_LBL</source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="ADDITIONAL_INCOME_LBL" datatype="html">
+<source>ADDITIONAL_INCOME_LBL</source>
+<target>Ingresos adicionales mensuales</target>
+</trans-unit>
+
+<trans-unit id="ADDITIONAL_INCOME_SUB_LBL" datatype="html">
+<source>ADDITIONAL_INCOME_SUB_LBL</source>
+<target>Por favor introduce el importe mensual de tus ingresos adicionales que sean demostrables</target>
+</trans-unit>
+
+<trans-unit id="RENT_LBL" datatype="html">
+<source>RENT_LBL</source>
+<target>Gastos de alquiler</target>
+</trans-unit>
+
+<trans-unit id="RENT_SUB_LBL" datatype="html">
+<source>RENT_SUB_LBL</source>
+<target>Por favor introduce el importe de tus gastos de alquiler</target>
+</trans-unit>
+
+<trans-unit id="MORTGAGE_LBL" datatype="html">
+<source>MORTGAGE_LBL</source>
+<target>Gasto de hipoteca</target>
+</trans-unit>
+
+<trans-unit id="MORTGAGE_SUB_LBL" datatype="html">
+<source>MORTGAGE_SUB_LBL</source>
+<target>Por favor introduce la cuota de tus gastos de hipoteca</target>
+</trans-unit>
+
+<trans-unit id="SELECT_FINANCIAL_LOAN_COUNT_LBL" datatype="html">
+<source>SELECT_FINANCIAL_LOAN_COUNT_LBL</source>
+<target>Selecciona...</target>
+</trans-unit>
+
+<trans-unit id="LOAN_COUNT_LBL" datatype="html">
+<source>LOAN_COUNT_LBL</source>
+<target>¿Cuántos otros préstamos tienes en este momento?</target>
+</trans-unit>
+
+<trans-unit id="LOAN_COUNT_SUB_LBL" datatype="html">
+<source>LOAN_COUNT_SUB_LBL</source>
+<target>Comprobamos tus créditos en el Banco de España. Declara correctamente todos tus préstamos/tarjetas/financiaciones para facilitar la aprobación de tu solicitud.</target>
+</trans-unit>
+
+<trans-unit id="LATE_ON_PAYMENT_LBL" datatype="html">
+<source>LATE_ON_PAYMENT_LBL</source>
+<target>¿ Tienes algun impago en tus préstamos ?</target>
+</trans-unit>
+/
+<trans-unit id="MONTHLY_AMOUNT_LBL_OUTCOME" datatype="html">
+<source>MONTHLY_AMOUNT_LBL_OUTCOME</source>
+<target>Importe mensual €</target>
+</trans-unit>
+<trans-unit id="MORTGAGE_PLACEHOLDER" datatype="html">
+<source>MORTGAGE_PLACEHOLDER</source>
+<target>Importe mensual €</target>
+</trans-unit>
+<trans-unit id="EMAIL_LBL" datatype="html">
+<source>EMAIL_LBL</source>
+<target>Correo electrónico</target>
+</trans-unit>
+
+<trans-unit id="YUC_OPTIN_LBL" datatype="html">
+<source>Je souhaite recevoir les actualités et bons plans Younited Credit
+<x id="START_LINK" ctype="x-a" />
+(voir notre politique de confidentialité)<x id="CLOSE_LINK" ctype="x-a" />
+</source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="YUC_OPTIN_HREF" datatype="html">
+<source>https://www.younited-credit.com/mentions-legales</source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="YUC_PARTNER_OPTIN_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="ARE_CONDITIONS_ACCEPTED_LBL" datatype="html">
+<source>ARE_CONDITIONS_ACCEPTED_LBL</source>
+<target>He leído y acepto las </target>
+</trans-unit>
+
+<trans-unit id="BIZDEV_CTA_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="BIZDEV_CTA_BTN_TEXT" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="REOPTIN_DISCLAMER" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="IS_BORN_IN_NATIVE_COUNTRY_LBL" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<!-- Insurance V2 Page Offers-->
+<trans-unit id="INSURANCE_V2_OFFERS_CHOICE" datatype="html">
+<source></source>
+<target>Tu elección de seguro</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_TAKE_CREDIT" datatype="html">
+<source></source>
+<target>Porque tu tranquilidad no tiene precio…</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_RECOMMEND" datatype="html">
+<source></source>
+<target>
+        Te aconsejamos suscribirte a nuestra oferta de seguro
+</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_NO_INSURANCE_BANNER" datatype="html">
+<source></source>
+<target>El seguro es exclusivo a vuestro préstamo. Ningún otro seguro te cubrirá en caso de problema.</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_TRANSPARENT" datatype="html">
+<source></source>
+<target>Transparente</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_FREE" datatype="html">
+<source></source>
+<target>Podrás cambiar de opinión en cualquier momento de tu credito</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_ENGAGEMENT" datatype="html">
+<source></source>
+<target>Younited se compromete a ofrecerte el mejor seguro para tú perfíl</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_OFFERS_WITHOUT_ENGAGEMENT" datatype="html">
+<source></source>
+<target>Sin compromiso</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_SELECTION_AMOUNT" datatype="html">
+<source></source>
+<target>El coste total del seguro es de </target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_V2_NOTICE" datatype="html">
+<source></source>
+<target>¿qué te cubre?</target>
+</trans-unit>
+<!-- End Insurance V2 Page Offers-->
+
+<!-- Insurance V2 Page Verification-->
+<trans-unit id="INSURANCE_VERIFICATION_TITLE" datatype="html">
+<source>@@INSURANCE_VERIFICATION_TITLE</source>
+<target>Asegúrate y protege a los tuyos</target>
+</trans-unit>
+<trans-unit id="INSURANCE_VERIFICATION_CTA_BOTH_BORROWERS" datatype="html">
+<source>@@INSURANCE_VERIFICATION_CTA_BOTH_BORROWERS</source>
+<target>Para mi y mi coprestatario</target>
+</trans-unit>
+<trans-unit id="INSURANCE_VERIFICATION_CTA_ONLY_BORROWER" datatype="html">
+<source>@@INSURANCE_VERIFICATION_CTA_ONLY_BORROWER</source>
+<target>Solo para mi</target>
+</trans-unit>
+<trans-unit id="INSURANCE_VERIFICATION_CTA_CONTINUE_WITHOUT_INSURANCE" datatype="html">
+<source>@@INSURANCE_VERIFICATION_CTA_CONTINUE_WITHOUT_INSURANCE</source>
+<target>Continuar sin seguro</target>
+</trans-unit>
+<trans-unit id="INSURANCE_VERIFICATION_CTA_ADD_INSURANCE_AND_CONTINUE" datatype="html">
+<source>@@INSURANCE_VERIFICATION_CTA_ADD_INSURANCE_AND_CONTINUE</source>
+<target>Añadir seguro y continuar</target>
+</trans-unit>
+<!-- End Insurance V2 Page Verification-->
+
+<trans-unit id="ADD_INSURANCE_DETAILS_BTN" datatype="html">
+<source></source>
+<target>Añadir seguro</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_SELECTION_SELECT_LABEL" datatype="html">
+<source></source>
+<target>Asegurate para el reembolso de tu crédito en caso fallecimiento, accidente o enfermedad</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_SELECTION_ADD_JOBLOSS" datatype="html">
+<source></source>
+<target>Añadir cobertura de pérdida de empleo</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_SELECTION_MORE_DETAILS" datatype="html">
+<source></source>
+<target>Para más información sobre tu seguro con Younited Credit, <x id="LINE_BREAK" ctype="lb" />
+<x id="START_LINK" ctype="x-a" />
+consulta el Boletín de información<x id="CLOSE_LINK" ctype="x-a" />
+ y <x id="START_LINK_1" ctype="x-a" />
+la Poliza de seguro voluntario.<x id="CLOSE_LINK" ctype="x-a" />
+</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_SELECTION_LINK_INSURANCE_NOTICE" datatype="html">
+<source></source>
+<target>/assets/documents/es/boletin-de-informacion.pdf</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_SELECTION_LINK_PERSONNAL DATA" datatype="html">
+<source></source>
+<target>/assets/documents/es/poliza-de-seguro.pdf</target>
+</trans-unit>
+
+
+<trans-unit id="INSURANCE_DETAILS_SUMMARY" datatype="html">
+<source></source>
+<target>Resumen de mi cobertura</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_DETAILS_INSURED_INCIDENTS" datatype="html">
+<source></source>
+<target>Incidentes asegurados</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_DETAILS_UNINSURED_INCIDENTS" datatype="html">
+<source></source>
+<target>Incidentes no asegurados</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_MONTHLY_AMOUNT" datatype="html">
+<source></source>
+<target>€/mes</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_CTA_TITLE" datatype="html">
+<source></source>
+<target>Por tu tranquilidad y la de los tuyos, te recomendamos añadir un seguro:</target>
+</trans-unit>
+
+<trans-unit id="INSURANCE_VERIFICATION_GREETING" datatype="html">
+<source></source>
+<target>
+<x id="INTERPOLATION" />
+,</target>
+</trans-unit>
+
+<!-- PROMO COVID-->
+<trans-unit id="PROMO_HERO_COVID_OFFER" datatype="html">
+<target>Beneficiate de la iniciativa Héroes del COVID-19</target>
+</trans-unit>
+<!-- END PROMO COVID-->
+
+<trans-unit id="brMandatoryTitle" datatype="html">
+<source></source>
+<target>Acelera tu solicitud</target>
+</trans-unit>
+
+<trans-unit id="brMandatoryStepTitle" datatype="html">
+<source></source>
+<target>Conexión automática con tu banco</target>
+</trans-unit>
+
+<trans-unit id="brMandatorySubTitle" datatype="html">
+<source></source>
+<target>Para que podamos valorar tu solicitud, vamos a estudiar tu situación conectándonos automáticamente con tu banco.</target>
+</trans-unit>
+
+<trans-unit id="brMandatoryText1" datatype="html">
+<source></source>
+<target>La directiva eureopea DSP2EU te permite compartir de manera segura y automatizada la información de tu cuenta bancaria con nosotros.</target>
+</trans-unit>
+
+<trans-unit id="brMandatoryText2" datatype="html">
+<source></source>
+<target>Según el banco que indiques podrás crear una conexión segura con tus propias claves de acceso.</target>
+</trans-unit>
+
+<trans-unit id="brMandatoryText3" datatype="html">
+<source></source>
+<target>Garantizamos la seguridad y la privacidad de tu información.</target>
+</trans-unit>
+
+<trans-unit id="brMandatoryText4" datatype="html">
+<source></source>
+<target>La información sólo se utilizará para estudiar tu solicitud.</target>
+</trans-unit>
+
+<trans-unit id="brMandatoryText5" datatype="html">
+<source></source>
+<target>De está manera reduces la cantidad de documentos necesarios para tu solicitud a solo 1 documento.</target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_TITLE_BANNER" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_SUBTITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_NUM" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_MONTHLY" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_REBUY_CREDIT" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_SELECT_INSTITUTION" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_INSTITUT" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_REST" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_REST_INFO" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_TOTAL_MONTH" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_DECLARATION_CREDIT_TOTAL_REST" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_TITLE" datatype="html">
+<source>Regrouper vos crédits</source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_INSERT_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_INSERT_BODY" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_ERROR" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_BTN_ACCEPT_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_BTN_ACCEPT_BODY" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_BTN_REFUSE_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_BTN_REFUSE_BODY" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_SUMMARY_SUBTITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_SUMMARY_BORROWED_AMOUNT" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_SUMMARY_REBUY_AMOUNT" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_SUMMARY_TOTAL_BORROWED" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_SUMMARY_ERROR" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="MODIFY_OFFERS_PRO_ACTIVE_DEBT_CONSOLIDATION_NOT_OFFERS_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="MODIFY_OFFERS_PRO_ACTIVE_DEBT_CONSOLIDATION_NOT_OFFERS_SUBTITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_MODIFY_OFFERS_SAVE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_MODIFY_OFFERS_MONTHS" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_MODIFY_OFFERS_ON_COST" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_VERIFICATION_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_VERIFICATION_SUBTITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_VERIFICATION_EXIT" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_CHOICE_FOOTER" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_MODIFY_OFFERS_TITLE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_MODIFY_OFFERS_CAPTION" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_VERIFICATION_CONTINUE" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="monthlyFeeWithInsurrance" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="taegFixe" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="PRO_ACTIVE_DEBT_CONSOLIDATION_VERIFICATION_HEADER" datatype="html">
+<source></source>
+<target></target>
+</trans-unit>
+
+<trans-unit id="modifyOfferSelectOffer" datatype="html">
+<source></source>
+<target>Selecciona tu oferta</target>
+</trans-unit>
+
+<trans-unit id="modifyOfferModifyAmountSelection" datatype="html">
+<source></source>
+<target>Consulta todas las ofertas que tienes disponibles y elige la que más te convenga:</target>
+</trans-unit>
+
+<trans-unit id="modifyAmountSelectLabel" datatype="html">
+<target>Cambiar el importe</target>
+</trans-unit>
+
+<!-- OFFER COMPARATOR-->
+<trans-unit id="OFFER_COMPARATOR_COMPARE_OFFERS" datatype="html">
+<target>Comparar ambas ofertas</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_INITIAL_OFFER" datatype="html">
+<target>Oferta inicial</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_NEW_OFFER" datatype="html">
+<target>Nueva oferta</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_AMOUNT_MADE_AVAILABLE" datatype="html">
+<target>Valor disponible</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_MATURITY" datatype="html">
+<target>Plazo</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_MONTHLY_INSTALLMENT" datatype="html">
+<target>Cuota sin seguro</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_MONTHLY_INSTALLMENT_INSURANCE_INCLUDED" datatype="html">
+<target>Cuota con seguro</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_TAEG" datatype="html">
+<target>TAE</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_MONTHLY_TBA" datatype="html">
+<target>Tipo de Interés Nominal</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_FEE" datatype="html">
+<target>Comisión aplicada</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_MONTHLY_INTERESTS" datatype="html">
+<target>Intereses</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_BORROWED_AMOUNT" datatype="html">
+<target>Importe prestado</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_TOTAL_CREDIT_COST" datatype="html">
+<target>Coste total del préstamo</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_TOTAL_INSURANCE_COST" datatype="html">
+<target>Valor total del seguro</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_TOTAL_CREDIT_COST_WITH_INSURANCE" datatype="html">
+<target>Importe total adeudado</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_MORE_DETAILS" datatype="html">
+<target>Ver más detalles</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_LESS_DETAILS" datatype="html">
+<target>Ver menos detalles</target>
+</trans-unit>
+<trans-unit id="OFFER_COMPARATOR_BTN_CHOOSE" datatype="html">
+<target>Elegir</target>
+</trans-unit>
+<!-- END OFFER COMPARATOR-->
+
+<!-- UPSELL OFFER WITH MODIFY AND COMPARATOR-->
+<trans-unit id="UPSELL_WITH_MODIFY_AMOUNT_SUBTITLE" datatype="html">
+<target>¡Puedes pedir más si quieres!</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_MODIFY_AMOUNT_BTN_NEXT" datatype="html">
+<target>Continuar</target>
+</trans-unit>
+<!-- END UPSELL OFFER WITH MODIFY AND COMPARATOR-->
+
+<!-- UPSELL OFFER WITH COMPARATOR-->
+<trans-unit id="UPSELL_WITH_COMPARATOR_TITLE" datatype="html">
+<target>Tu importe extra</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_COMPARATOR_BANNER" datatype="html">
+<target>
+          Porque siempre es
+<x id="START_TAG_STRONG" ctype="x-strong" />
+mejor prevenir <x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+          que curar...
+<x id="LINE_BREAK" ctype="lb" />
+          ¡Puedes pedir un
+<x id="START_TAG_STRONG" ctype="x-strong" />
+ mayor préstamo <x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+          si quieres! 👌
+</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_COMPARATOR_AMOUNT" datatype="html">
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+          Toma prestados
+<x id="INTERPOLATION"/>
+€
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_COMPARATOR_INSTALLMENT" datatype="html">
+<target>
+        Repaga
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION"/>
+€
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+         /mes <x id="LINE_BREAK" ctype="lb" />
+durante
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_1"/>
+ meses
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+         (sin seguro)
+</target>
+</trans-unit>
+
+<trans-unit id="UPSELL_WITH_COMPARATOR_INSTALLMENT_SMART_DEBT" datatype="html">
+<target>
+        Repaga
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION"/>
+€
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+         /mes <x id="LINE_BREAK" ctype="lb" />
+ durante
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_1"/>
+ meses
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+         (seguro incluido)
+</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_COMPARATOR_TAEG" datatype="html">
+<target>
+<x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION"/>
+%
+<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+        TAE
+</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_COMPARATOR_BTN_ACCEPT" datatype="html">
+<target>¡Accepta esta oferta!</target>
+</trans-unit>
+<trans-unit id="UPSELL_WITH_COMPARATOR_BTN_REFUSE" datatype="html">
+<target>Mantén la oferta de <x id="INTERPOLATION"/>
+€</target>
+</trans-unit>
+<!-- END UPSELL OFFER WITH COMPARATOR-->
+
+<!-- UPSELL CATCH UP-->
+<trans-unit id="UPSELL_CATCH_UP_TITLE" datatype="html">
+<target>¡Último paso!</target>
+</trans-unit>
+<trans-unit id="UPSELL_CATCH_UP_SUB_TITLE" datatype="html">
+<target>¡Tenemos una oferta favorable para ti!</target>
+</trans-unit>
+<trans-unit id="UPSELL_CATCH_UP_HAVE_MORE_PAY_LESS" datatype="html">
+<target>Recibe un extra de <x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION"/>
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ por <x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_1"/>
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ menos al mes</target>
+</trans-unit>
+<trans-unit id="UPSELL_CATCH_UP_HAVE_MORE_PAY_MORE" datatype="html">
+<target>Disfruta de <x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION"/>
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ adicionales por <x id="START_TAG_STRONG" ctype="x-strong" />
+<x id="INTERPOLATION_1"/>
+€<x id="CLOSE_TAG_STRONG" ctype="x-strong" />
+ más por mes </target>
+</trans-unit>
+<trans-unit id="UPSELL_CATCH_UP_BTN_YES" datatype="html">
+<target>¡Estoy interesado!</target>
+</trans-unit>
+<trans-unit id="UPSELL_CATCH_UP_BTN_NO" datatype="html">
+<target>¡No, gracias!</target>
+</trans-unit>
+<!-- END UPSELL CATCH UP-->
+<trans-unit id="LATE_ON_PAYMENT_SUB_LBL" datatype="html"><source>LATE_ON_PAYMENT_SUB_LBL</source><target></target></trans-unit>
+</body>
+</file>
+</xliff>
