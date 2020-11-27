@@ -46,17 +46,24 @@ namespace I18nMigrationTool.Services.Interfaces
 
             }
 
+            CheckDifferenceBetweenTags(translations);
+
+            return translations;
+        }
+
+        private static void CheckDifferenceBetweenTags(List<Translation> translations)
+        {
             foreach (var translation in translations)
             {
                 foreach (var group in translation.TranslationSingles.GroupBy(d => d.CultureInfo.Name))
                 {
-                    var differenceBetweenTag = group.Where(t => !string.IsNullOrEmpty(t.Text) && t.Text != $"@@{translation.I18NKey}").Select(t => t.Text).Distinct().Count() > 1;
-                    if (differenceBetweenTag)
+                    var differenceBetweenTags =
+                        @group.Where(t => !string.IsNullOrEmpty(t.Text) && t.Text != $"@@{translation.I18NKey}")
+                            .Select(t => t.Text).Distinct().Count() > 1;
+                    if (differenceBetweenTags)
                         translation.IsEligibleToMigrate = false;
                 }
             }
-
-            return translations;
         }
     }
 }
